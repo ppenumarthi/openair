@@ -1,0 +1,5 @@
+EmmDeregisteredLimitedService.lo: \
+ EURECOM-NAS/src/emm/sap/EmmDeregisteredLimitedService.c \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

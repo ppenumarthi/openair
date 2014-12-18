@@ -1,0 +1,5 @@
+EmmDeregisteredAttachNeeded.lo: \
+ EURECOM-NAS/src/emm/sap/EmmDeregisteredAttachNeeded.c \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

@@ -1,0 +1,5 @@
+EmmDeregisteredPlmnSearch.lo: \
+ EURECOM-NAS/src/emm/sap/EmmDeregisteredPlmnSearch.c \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
