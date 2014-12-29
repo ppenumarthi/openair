@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/auc
+END
+kdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/auc/kdf.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/auc/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/auc/Makefile.am
+END
+rijndael.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/auc/rijndael.c
+END
+auc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/auc/auc.h
+END
+fx.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/auc/fx.c
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/auc/random.c
+END
+sequence_number.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/auc/sequence_number.c
+END

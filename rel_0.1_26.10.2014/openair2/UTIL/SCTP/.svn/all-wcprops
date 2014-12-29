@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/SCTP
+END
+sctp_primitives_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/SCTP/sctp_primitives_client.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/SCTP/COPYING
+END
+sctp_primitives_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/SCTP/sctp_primitives_client.h
+END

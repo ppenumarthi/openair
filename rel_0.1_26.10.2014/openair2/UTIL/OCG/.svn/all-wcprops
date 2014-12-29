@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG
+END
+OCG_call_emu.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_call_emu.c
+END
+OCG_save_XML.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_save_XML.h
+END
+OCG_generate_report.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_generate_report.c
+END
+OCG.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG.h
+END
+OCG_call_emu.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_call_emu.h
+END
+OCG_generate_report.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_generate_report.h
+END
+OCG_parse_XML.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_parse_XML.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/COPYING
+END
+OCG_parse_XML.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_parse_XML.h
+END
+OCG_create_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_create_dir.c
+END
+OCG_get_opt.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_get_opt.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/readme.txt
+END
+OCG_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_if.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/makefile
+END
+OCG_get_opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_get_opt.h
+END
+Readme.doxy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/Readme.doxy
+END
+OCG_create_dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_create_dir.h
+END
+OCG_detect_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_detect_file.c
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/.directory
+END
+OCG_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_extern.h
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/Doxyfile
+END
+OCG_parse_filename.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_parse_filename.c
+END
+OCG_config_mobi.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_config_mobi.c
+END
+OCG_detect_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_detect_file.h
+END
+eurecom_20110208110244.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/eurecom_20110208110244.xml
+END
+OCG_save_XML.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_save_XML.c
+END
+OCG_parse_filename.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_parse_filename.h
+END
+OCG.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG.c
+END
+OCG_vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_vars.h
+END
+OCG_config_mobi.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OCG/OCG_config_mobi.h
+END

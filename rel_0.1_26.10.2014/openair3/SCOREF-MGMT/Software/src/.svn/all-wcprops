@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src
+END
+mgmt_information_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_information_base.hpp
+END
+mgmt_inquiry_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_inquiry_thread.cpp
+END
+mgmt_inquiry_thread.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_inquiry_thread.hpp
+END
+mgmt_packet_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_packet_factory.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/main.cpp
+END
+mgmt_its_key_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_its_key_manager.cpp
+END
+mgmt_packet_factory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_packet_factory.hpp
+END
+mgmt_packet_handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_packet_handler.cpp
+END
+mgmt_its_key_manager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_its_key_manager.hpp
+END
+mgmt_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_server.cpp
+END
+version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/version.hpp
+END
+mgmt_configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_configuration.cpp
+END
+mgmt_client_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_client_manager.cpp
+END
+mgmt_packet_handler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_packet_handler.hpp
+END
+mgmt_types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_types.hpp
+END
+mgmt_comm_prof_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_comm_prof_manager.cpp
+END
+mgmt_server.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_server.hpp
+END
+mgmt_configuration.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_configuration.hpp
+END
+mgmt_client_manager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_client_manager.hpp
+END
+mgmt_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_client.cpp
+END
+mgmt_information_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_information_base.cpp
+END
+mgmt_comm_prof_manager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_comm_prof_manager.hpp
+END
+mgmt_client.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/mgmt_client.hpp
+END

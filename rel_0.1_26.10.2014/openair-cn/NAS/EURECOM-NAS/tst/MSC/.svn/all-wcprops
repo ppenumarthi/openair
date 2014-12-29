@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC
+END
+InitialAttach.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC/InitialAttach.png
+END
+NomalDetach.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC/NomalDetach.png
+END
+msc_gen.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC/msc_gen.py
+END
+ActivatePDN.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC/ActivatePDN.png
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC/COPYING
+END
+SwitchOffDetach.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC/SwitchOffDetach.png
+END
+mscgen
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC/mscgen
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC/README
+END
+DeactivatePDN.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC/DeactivatePDN.png
+END
+InitialAttachReject.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC/InitialAttachReject.png
+END
+AuthenticationReject.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/tst/MSC/AuthenticationReject.png
+END

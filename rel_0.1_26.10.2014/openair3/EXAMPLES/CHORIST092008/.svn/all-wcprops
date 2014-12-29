@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008
+END
+mr3_mpls_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/mr3_mpls_nas.sh
+END
+del_mpls.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/del_mpls.sh
+END
+mr1_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/mr1_nas.sh
+END
+mn1_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/mn1_conf.sh
+END
+dummy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/dummy.txt
+END
+mr2_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/mr2_nas.sh
+END
+mr3_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/mr3_nas.sh
+END
+mr1_conf_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/mr1_conf_nas.sh
+END
+mr2_conf_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/mr2_conf_nas.sh
+END
+mr3_conf_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/mr3_conf_nas.sh
+END
+start_openair2_mr1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/start_openair2_mr1.sh
+END
+mpls_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/mpls_nas.sh
+END
+ch1_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/ch1_nas.sh
+END
+start_openair2_mr2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/start_openair2_mr2.sh
+END
+ch2_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/ch2_nas.sh
+END
+start_openair2_mr3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/start_openair2_mr3.sh
+END
+mr1_del_mpls.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/mr1_del_mpls.sh
+END
+ch1_conf_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/ch1_conf_nas.sh
+END
+ch2_conf_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/ch2_conf_nas.sh
+END
+params.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/params.sh
+END
+start_openair2_ch1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/start_openair2_ch1.sh
+END
+start_openair2_ch2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/start_openair2_ch2.sh
+END
+mr1_mpls_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CHORIST092008/mr1_mpls_nas.sh
+END

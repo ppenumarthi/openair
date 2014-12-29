@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/RT_ENB_AND_MME.HSS
+END
+enb.calisson.conf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/RT_ENB_AND_MME.HSS/enb.calisson.conf
+END
+epc.mme0.conf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/RT_ENB_AND_MME.HSS/epc.mme0.conf
+END

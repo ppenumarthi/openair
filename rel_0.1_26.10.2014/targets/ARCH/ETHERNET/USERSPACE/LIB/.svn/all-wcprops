@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/ETHERNET/USERSPACE/LIB
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/ETHERNET/USERSPACE/LIB/Makefile.inc
+END
+ethernet_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/ETHERNET/USERSPACE/LIB/ethernet_lib.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/ETHERNET/USERSPACE/LIB/COPYING
+END
+ethernet_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/ETHERNET/USERSPACE/LIB/ethernet_lib.h
+END

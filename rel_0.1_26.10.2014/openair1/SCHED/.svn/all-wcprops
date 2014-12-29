@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED
+END
+phy_procedures_lte_ue.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/phy_procedures_lte_ue.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/extern.h
+END
+rt_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/rt_compat.h
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/vars.h
+END
+phy_procedures_emos.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/phy_procedures_emos.h
+END
+phy_procedures_lte_eNb.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/phy_procedures_lte_eNb.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/Makefile.inc
+END
+pucch_pc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/pucch_pc.c
+END
+pusch_pc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/pusch_pc.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/COPYING
+END
+phy_procedures_lte_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SCHED/phy_procedures_lte_common.c
+END

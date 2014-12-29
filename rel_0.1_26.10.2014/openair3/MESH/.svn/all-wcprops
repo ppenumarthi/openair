@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/MESH
+END
+L3_rrc_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/MESH/L3_rrc_interface.h
+END
+L3_rrc_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/MESH/L3_rrc_defs.h
+END
+cmm_ral_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/MESH/cmm_ral_interface.h
+END
+cmm_rrm_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/MESH/cmm_rrm_interface.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/MESH/COPYING
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files
+END
+36331-860.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files/36331-860.txt
+END
+EUTRA-RRC-Definitions-86.asn
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files/EUTRA-RRC-Definitions-86.asn
+END
+EUTRA-UE-Variables-86.asn
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files/EUTRA-UE-Variables-86.asn
+END
+EUTRA-InterNodeDefinitions-86.asn
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files/EUTRA-InterNodeDefinitions-86.asn
+END
+EUTRA-RRC-Definitions-a20.asn.orig
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files/EUTRA-RRC-Definitions-a20.asn.orig
+END
+36331-a20.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files/36331-a20.txt
+END
+EUTRA-RRC-Definitions-a20.asn
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files/EUTRA-RRC-Definitions-a20.asn
+END
+EUTRA-UE-Variables-a20.asn
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files/EUTRA-UE-Variables-a20.asn
+END
+EUTRA-InterNodeDefinitions-a20.asn
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files/EUTRA-InterNodeDefinitions-a20.asn
+END
+EUTRA-RRC-Definitions-a20-lola.asn
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files/EUTRA-RRC-Definitions-a20-lola.asn
+END
+extract_asn1_from_spec.pl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1c/ASN1_files/extract_asn1_from_spec.pl
+END

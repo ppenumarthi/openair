@@ -142,7 +142,6 @@ int s6a_init(const mme_config_t *mme_config_p)
         gnutls_global_set_log_level (gnutls_debug);
         S6A_DEBUG("Enabled GNUTLS debug at level %d", gnutls_debug);
     }
-    S6A_DEBUG("set the gnutls debug level\n");
 
     /* Starting freeDiameter core */
     ret = fd_core_start();
@@ -150,7 +149,6 @@ int s6a_init(const mme_config_t *mme_config_p)
         S6A_ERROR("An error occurred during freeDiameter core library start\n");
         return ret;
     }
-    S6A_DEBUG("fd-core_start finished without errors\n");
 
 
 
@@ -159,24 +157,21 @@ int s6a_init(const mme_config_t *mme_config_p)
         S6A_ERROR("An error occurred during fd_core_waitstartcomplete.\n");
         return ret;
     }
-    S6A_DEBUG("fd_core_waitstartcomplete finished without errors\n");
 
     ret = s6a_fd_init_dict_objs();
     if (ret != 0) {
         S6A_ERROR("An error occurred during s6a_fd_init_dict_objs.\n");
         return ret;
     }
-    S6A_DEBUG("s6a_fd_init_dict_objs finished without errors\n");
 
     /* Trying to connect to peers */
     CHECK_FCT(s6a_fd_new_peer());
-    S6A_DEBUG("check_fct finished\n");
 
     if (itti_create_task(TASK_S6A, &s6a_thread, NULL) < 0) {
         S6A_ERROR("s6a create task\n");
         return -1;
     }
-    S6A_DEBUG("itti_create_task finished without errors\n");
+    S6A_DEBUG("Initializing S6a interface: DONE\n");
 
     return 0;
 }

@@ -39,6 +39,7 @@
 #include "conversions.h"
 #include "secu_defs.h"
 #include "snow3g.h"
+#include "backtrace.h"
 
 // #define SECU_DEBUG
 

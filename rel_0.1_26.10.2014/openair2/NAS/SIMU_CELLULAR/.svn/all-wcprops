@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/SIMU_CELLULAR
+END
+nas_simu_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/SIMU_CELLULAR/nas_simu_proto.h
+END
+rrm_fifo_standalone.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/SIMU_CELLULAR/rrm_fifo_standalone.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/SIMU_CELLULAR/Makefile
+END
+nasrg_simu_meas.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/SIMU_CELLULAR/nasrg_simu_meas.c
+END

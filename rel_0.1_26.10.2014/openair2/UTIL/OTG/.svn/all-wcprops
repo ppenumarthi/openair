@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG
+END
+otg_kpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_kpi.h
+END
+otg_models.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_models.h
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/Doxyfile
+END
+otg_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_rx.c
+END
+otg_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_tx.c
+END
+otg_externs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_externs.h
+END
+OTGplot
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/OTGplot
+END
+otg_rx.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_rx.h
+END
+traffic_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/traffic_config.h
+END
+otg_tx.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_tx.h
+END
+otg_rx_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_rx_socket.c
+END
+otg_form.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_form.c
+END
+otg_tx_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_tx_socket.c
+END
+otg_rx_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_rx_socket.h
+END
+otg_form.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_form.h
+END
+otg_tx_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_tx_socket.h
+END
+otg_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_config.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/main.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/COPYING
+END
+otg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg.c
+END
+otg_vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_vars.h
+END
+otg_models.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_models.c
+END
+otg_kpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_kpi.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/makefile
+END
+help_OTGplot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/help_OTGplot.txt
+END
+otg.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg.h
+END
+otg_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OTG/otg_defs.h
+END

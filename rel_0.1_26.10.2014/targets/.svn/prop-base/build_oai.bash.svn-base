@@ -1,0 +1,11 @@
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mergeinfo
+V 132
+/tags/TM5_ITJ/targets/build_oai.bash:4457
+/tags/samurai_20121129/targets/build_oai.bash:2892
+/trunk/targets/build_oai.bash:5938-6003
+END

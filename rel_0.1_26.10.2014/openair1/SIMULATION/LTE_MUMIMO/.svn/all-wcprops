@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_MUMIMO
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_MUMIMO/COPYING
+END
+dlsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_MUMIMO/dlsim.c
+END
+dlsim2.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_MUMIMO/dlsim2.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_MUMIMO/Makefile
+END

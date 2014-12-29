@@ -30,19 +30,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#if defined(ENB_MODE)
+/*#if defined(ENB_MODE)
 # define display_backtrace()
 #else
 # include "backtrace.h"
-#endif
+#endif*/
+# include "backtrace.h"
 
 #ifndef ASSERTIONS_H_
 #define ASSERTIONS_H_
 
+   /* Removed  display_backtrace();      fucntion in secon line of the code here */
 #define _Assert_Exit_                           \
 {                                               \
     fprintf(stderr, "\nExiting execution\n");   \
-    display_backtrace();                        \
     fflush(stdout);                             \
     fflush(stderr);                             \
     exit(EXIT_FAILURE);                         \

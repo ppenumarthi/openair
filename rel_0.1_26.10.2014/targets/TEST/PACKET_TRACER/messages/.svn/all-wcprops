@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PACKET_TRACER/messages
+END
+sib2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PACKET_TRACER/messages/sib2.txt
+END
+sib3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PACKET_TRACER/messages/sib3.txt
+END
+rrcconnectionreconfiguration.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PACKET_TRACER/messages/rrcconnectionreconfiguration.txt
+END
+rrcconnectionsetup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PACKET_TRACER/messages/rrcconnectionsetup.txt
+END
+sib2_3_oai.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PACKET_TRACER/messages/sib2_3_oai.txt
+END
+Msg4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PACKET_TRACER/messages/Msg4.txt
+END
+sib2_3_oai_Rel10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PACKET_TRACER/messages/sib2_3_oai_Rel10.txt
+END
+sib1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PACKET_TRACER/messages/sib1.txt
+END

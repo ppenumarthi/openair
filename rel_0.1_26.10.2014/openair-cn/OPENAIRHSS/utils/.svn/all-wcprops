@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/utils
+END
+conversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/utils/conversion.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/utils/COPYING
+END
+hss_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/utils/hss_config.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/utils/Makefile.am
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/utils/queue.h
+END
+conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/utils/conversion.h
+END
+hss_parser.y
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/utils/hss_parser.y
+END
+hss_scanner.l
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/utils/hss_scanner.l
+END
+hss_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/utils/hss_config.c
+END

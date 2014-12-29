@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/COPYING
+END
+bsearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/bsearch.c
+END
+asn1_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1_msg.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/Makefile
+END
+bsearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/bsearch.h
+END
+asn1_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1_msg.h
+END
+rtai_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/rtai_mem.c
+END
+asn1_patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/asn1_patch
+END
+rtai_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/rtai_mem.h
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRC/LITE/MESSAGES/Makefile.inc
+END

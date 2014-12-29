@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS
+END
+load_module.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/load_module.sh
+END
+nas_enb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/nas_enb.sh
+END
+load_module_2010.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/load_module_2010.sh
+END
+start_eNb_mode1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/start_eNb_mode1.sh
+END
+start_ue.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/start_ue.sh
+END
+load_module_2011.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/load_module_2011.sh
+END
+start_eNb_mode2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/start_eNb_mode2.sh
+END
+start_test_fs4.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/start_test_fs4.sh
+END
+nas_ue.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/nas_ue.sh
+END
+start_eNb_mode6.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/start_eNb_mode6.sh
+END
+stop_rf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/stop_rf.sh
+END
+start_emos.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/LAUNCH_SCRIPTS/start_emos.sh
+END

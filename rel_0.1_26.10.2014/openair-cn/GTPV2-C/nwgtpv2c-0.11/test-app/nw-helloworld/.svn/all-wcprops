@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld
+END
+NwMiniUlpEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld/NwMiniUlpEntity.c
+END
+NwMiniUlpEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld/NwMiniUlpEntity.h
+END
+NwMiniLogMgrEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld/NwMiniLogMgrEntity.c
+END
+NwMiniTmrMgrEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld/NwMiniTmrMgrEntity.c
+END
+NwMiniUdpEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld/NwMiniUdpEntity.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld/Makefile.am
+END
+NwEvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld/NwEvt.h
+END
+NwMiniLogMgrEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld/NwMiniLogMgrEntity.h
+END
+helloworld.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld/helloworld.c
+END
+NwMiniTmrMgrEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld/NwMiniTmrMgrEntity.h
+END
+NwMiniUdpEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld/NwMiniUdpEntity.h
+END

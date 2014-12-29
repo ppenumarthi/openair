@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/CODING/TESTBENCH
+END
+pdcch_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/CODING/TESTBENCH/pdcch_test.c
+END
+viterbi_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/CODING/TESTBENCH/viterbi_test.c
+END
+ltetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/CODING/TESTBENCH/ltetest.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/CODING/TESTBENCH/COPYING
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/CODING/TESTBENCH/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/CODING/TESTBENCH/Makefile
+END

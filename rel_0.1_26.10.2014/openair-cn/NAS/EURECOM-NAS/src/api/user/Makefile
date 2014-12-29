@@ -28,7 +28,7 @@
 ################################################################################
 ifndef PROJDIR
 PROJDIR  = $(PWD)/../../..
-INCLUDES = -I. -I$(INCDIR) -I$(UTILDIR) -I$(IESDIR) -I$(EMMMSGDIR) -I$(ESMMSGDIR)
+INCLUDES = -I. -I$(INCDIR) -I$(UTILDIR) -I$(IESDIR) -I$(EMMMSGDIR) -I$(ESMMSGDIR) -I$(OPENAIRCN_DIR)/NAS/EURECOM-NAS/src
 endif
 
 include $(PROJDIR)/Makerules
@@ -38,7 +38,7 @@ all: $(OBJS)
 
 %.o: %.c Makefile
 	@echo Compiling $<
-	@$(CC) $(CFLAGS) -c $< -o $@
+	@$(CC) $(CFLAGS) -fPIC -c $< -o $@
 
 clean:
 	$(RM) $(OBJS) *.bak *~

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NETWORK_DRIVER/UE_IP
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NETWORK_DRIVER/UE_IP/COPYING
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NETWORK_DRIVER/UE_IP/common.c
+END
+sap.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NETWORK_DRIVER/UE_IP/sap.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NETWORK_DRIVER/UE_IP/Makefile
+END
+proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NETWORK_DRIVER/UE_IP/proto_extern.h
+END
+constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NETWORK_DRIVER/UE_IP/constant.h
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NETWORK_DRIVER/UE_IP/device.c
+END
+local.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NETWORK_DRIVER/UE_IP/local.h
+END
+netlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NETWORK_DRIVER/UE_IP/netlink.c
+END

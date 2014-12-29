@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/device.c
+END
+ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/ioctl.h
+END
+local.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/local.h
+END
+classifier.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/classifier.c
+END
+netlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/netlink.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/COPYING
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/common.c
+END
+sap.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/sap.h
+END
+ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/ioctl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/Makefile
+END
+proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/proto_extern.h
+END
+tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/tool.c
+END
+constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/LITE/constant.h
+END

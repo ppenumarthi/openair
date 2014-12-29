@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/pushing
+END
+DeviceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/pushing/DeviceManager.java
+END
+GCMPushingServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/pushing/GCMPushingServer.java
+END
+IPushingServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/pushing/IPushingServer.java
+END

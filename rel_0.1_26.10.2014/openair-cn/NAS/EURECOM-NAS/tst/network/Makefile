@@ -35,19 +35,20 @@ PROJDIR	= $(PWD)/../..
 
 export LD_RUN_PATH = $(LIBDIR):$(LIBPROCESS)
 
-LIBS	 = -lutil -lapi -lEMMmsg -lESMmsg -lies -lrt
+LIBS	 = -lutil -lapi -lEMMmsg -lESMmsg -lies -lrt -lnettle -lssl
 INCLUDES = -I. -I$(SRCDIR) -I$(INCDIR) -I$(UTILDIR) \
-	-I$(EMMMSGDIR) -I$(ESMMSGDIR) -I$(IESDIR)
-
+	-I$(EMMMSGDIR) -I$(ESMMSGDIR) -I$(IESDIR)	\
+	-I$(EMMDIR) -I$(APIDIR)/mme -I$(EMMDIR)/sap -I$(ESMDIR)/sap -I$(ESMDIR) -I$(OPENAIRCN_DIR)/SECU -I/usr/include/openssl -I/usr/include \
+	-I$(OPENAIRCN_DIR)/COMMON -I$(OPENAIR_HOME)/common/utils -I$(OPENAIRCN_DIR)/UTILS -I$(OPENAIR_HOME)/common/utils/itti
 TARGET = NetworkProcess
 
 all: $(TARGET)
 
 %.o: %.c Makefile
-	$(CC) $(CFLAGS) -c $< -o $@
+	$(CC) $(CFLAGS) -c $< -o $@ $(OPENAIRCN_DIR)/SECU/*.o
 
-$(TARGET): $(OBJS)
-	$(CC) -o $@ $^ $(LDFLAGS) $(LIBS)
+$(TARGET): $(OBJS) $(OPENAIRCN_DIR)/SECU/*.o
+	$(CC) -Wall -o $@ $^ $(LDFLAGS) -L/usr/local/lib $(LIBS) -I/usr/include/openssl -I/usr/include
 	@$(CP) $@ $(BINDIR)
 
 clean:

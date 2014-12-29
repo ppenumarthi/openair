@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets
+END
+mgmt_gn_packet_wireless_state_request.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_wireless_state_request.cpp
+END
+mgmt_gn_packet_wireless_state_request.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_wireless_state_request.hpp
+END
+mgmt_fac_packet_comm_profile_selection_request.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_fac_packet_comm_profile_selection_request.cpp
+END
+mgmt_fac_packet_comm_profile_selection_request.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_fac_packet_comm_profile_selection_request.hpp
+END
+mgmt_gn_packet_comm_profile_request.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_comm_profile_request.cpp
+END
+mgmt_lte_packet_wireless_state_request.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_lte_packet_wireless_state_request.cpp
+END
+mgmt_gn_packet_comm_profile_request.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_comm_profile_request.hpp
+END
+mgmt_gn_packet_network_state.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_network_state.cpp
+END
+mgmt_lte_packet_wireless_state_request.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_lte_packet_wireless_state_request.hpp
+END
+mgmt_gn_packet_location_table_response.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_location_table_response.cpp
+END
+mgmt_gn_packet_network_state.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_network_state.hpp
+END
+mgmt_gn_packet_location_table_response.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_location_table_response.hpp
+END
+mgmt_fac_packet_configuration_notification.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_fac_packet_configuration_notification.cpp
+END
+mgmt_gn_packet_get_configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_get_configuration.cpp
+END
+mgmt_fac_packet_configuration_notification.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_fac_packet_configuration_notification.hpp
+END
+mgmt_gn_packet_configuration_available.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_configuration_available.cpp
+END
+mgmt_gn_packet_location_update.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_location_update.cpp
+END
+mgmt_gn_packet_wireless_state_response.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_wireless_state_response.cpp
+END
+mgmt_gn_packet_get_configuration.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_get_configuration.hpp
+END
+mgmt_gn_packet_configuration_available.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_configuration_available.hpp
+END
+mgmt_gn_packet_location_update.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_location_update.hpp
+END
+mgmt_gn_packet_wireless_state_response.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_wireless_state_response.hpp
+END
+mgmt_gn_packet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet.cpp
+END
+mgmt_gn_packet_set_configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_set_configuration.cpp
+END
+mgmt_fac_packet_comm_profile_selection_response.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_fac_packet_comm_profile_selection_response.cpp
+END
+mgmt_gn_packet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet.hpp
+END
+mgmt_gn_packet_set_configuration.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_set_configuration.hpp
+END
+mgmt_gn_packet_location_table_request.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_location_table_request.cpp
+END
+mgmt_fac_packet_comm_profile_selection_response.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_fac_packet_comm_profile_selection_response.hpp
+END
+mgmt_gn_packet_comm_profile_response.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_comm_profile_response.cpp
+END
+mgmt_lte_packet_wireless_state_response.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_lte_packet_wireless_state_response.cpp
+END
+mgmt_gn_packet_location_table_request.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_location_table_request.hpp
+END
+mgmt_gn_packet_comm_profile_response.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_gn_packet_comm_profile_response.hpp
+END
+mgmt_lte_packet_wireless_state_response.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/src/packets/mgmt_lte_packet_wireless_state_response.hpp
+END

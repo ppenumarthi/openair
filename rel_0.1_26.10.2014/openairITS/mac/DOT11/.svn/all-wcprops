@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openairITS/mac/DOT11
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openairITS/mac/DOT11/MAINTAINERS
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openairITS/mac/DOT11/config.mk
+END
+code-metrics.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openairITS/mac/DOT11/code-metrics.txt
+END
+compat_base_tree
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openairITS/mac/DOT11/compat_base_tree
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openairITS/mac/DOT11/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openairITS/mac/DOT11/README
+END
+compat_base_tree_version
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openairITS/mac/DOT11/compat_base_tree_version
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openairITS/mac/DOT11/.gitignore
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openairITS/mac/DOT11/COPYRIGHT
+END
+compat_version
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openairITS/mac/DOT11/compat_version
+END

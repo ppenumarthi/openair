@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/COPYING
+END
+multipath_tv_channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/multipath_tv_channel.c
+END
+random_channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/random_channel.c
+END
+abstraction.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/abstraction.c
+END
+ch_desc_proto.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/ch_desc_proto.c
+END
+scm.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/scm.m
+END
+taus.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/taus.c
+END
+scm_corrmat.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/scm_corrmat.h
+END
+llr_quantization.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/llr_quantization.c
+END
+multipath_channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/multipath_channel.c
+END
+corr_mat.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/corr_mat.m
+END
+gauss.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/gauss.c
+END
+rangen_double.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/rangen_double.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/TOOLS/defs.h
+END

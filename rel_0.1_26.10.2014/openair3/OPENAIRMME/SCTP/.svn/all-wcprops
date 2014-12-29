@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/OPENAIRMME/SCTP
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/OPENAIRMME/SCTP/Makefile.in
+END
+sctp_primitives_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/OPENAIRMME/SCTP/sctp_primitives_client.c
+END
+sctp_primitives_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/OPENAIRMME/SCTP/sctp_primitives_client.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/OPENAIRMME/SCTP/Makefile.am
+END
+sctp_primitives_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/OPENAIRMME/SCTP/sctp_primitives_server.c
+END
+sctp_primitives_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/OPENAIRMME/SCTP/sctp_primitives_server.h
+END

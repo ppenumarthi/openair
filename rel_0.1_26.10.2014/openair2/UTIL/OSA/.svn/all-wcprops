@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA
+END
+osa_snow3g.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA/osa_snow3g.c
+END
+osa_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA/osa_internal.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA/COPYING
+END
+osa_snow3g.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA/osa_snow3g.h
+END
+osa_stream_eea.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA/osa_stream_eea.c
+END
+osa_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA/osa_defs.h
+END
+osa_key_deriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA/osa_key_deriver.c
+END
+osa_rijndael.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA/osa_rijndael.c
+END
+osa_stream_eia.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA/osa_stream_eia.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA/README
+END
+osa_rijndael.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/OSA/osa_rijndael.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/ROHDE_SCHWARZ
+END
+TcpClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/ROHDE_SCHWARZ/TcpClient.cpp
+END
+EthernetRawCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/ROHDE_SCHWARZ/EthernetRawCommand.cpp
+END
+TcpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/ROHDE_SCHWARZ/TcpClient.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/ROHDE_SCHWARZ/Makefile
+END

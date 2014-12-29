@@ -72,6 +72,8 @@
 #    define FIFO_PRINTF_SIZE            65536
 #endif
 
+#define TRUE 1
+
 /* ITTI DEBUG groups */
 #define ITTI_DEBUG_POLL             (1<<0)
 #define ITTI_DEBUG_SEND             (1<<1)
@@ -81,7 +83,6 @@
 #define ITTI_DEBUG_ISSUES           (1<<5)
 #define ITTI_DEBUG_MP_STATISTICS    (1<<6)
 
-#define TRUE 1
 const int itti_debug = ITTI_DEBUG_ISSUES | ITTI_DEBUG_MP_STATISTICS;
 
 /* Don't flush if using RTAI */

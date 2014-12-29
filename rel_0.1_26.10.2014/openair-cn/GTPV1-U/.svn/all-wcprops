@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV1-U
+END
+gtpv1u_eNB.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV1-U/gtpv1u_eNB.c
+END
+gtpv1u.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV1-U/gtpv1u.h
+END
+gtpv1u_sgw_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV1-U/gtpv1u_sgw_defs.h
+END
+Makefile.eNB
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV1-U/Makefile.eNB
+END
+gtpv1u_eNB_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV1-U/gtpv1u_eNB_defs.h
+END
+gtpv1u_eNB_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV1-U/gtpv1u_eNB_task.h
+END
+gtpv1u_teid_pool.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV1-U/gtpv1u_teid_pool.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV1-U/Makefile.am
+END
+gtpv1u_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV1-U/gtpv1u_task.c
+END

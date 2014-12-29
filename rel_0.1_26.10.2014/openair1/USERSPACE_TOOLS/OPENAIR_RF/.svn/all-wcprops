@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF
+END
+affich.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF/affich.m
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF/Makefile
+END
+openair_generate_ofdm.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF/openair_generate_ofdm.c
+END
+fft_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF/fft_test.c
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF/load.c
+END
+load_calibration_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF/load_calibration_data.c
+END
+test_rx.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF/test_rx.m
+END
+openair_rf.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF/openair_rf.c
+END
+txgains.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF/txgains.sh
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF/COPYING
+END
+fix_fft2.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OPENAIR_RF/fix_fft2.c
+END

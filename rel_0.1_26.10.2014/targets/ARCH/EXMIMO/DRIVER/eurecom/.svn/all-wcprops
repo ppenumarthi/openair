@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom
+END
+do_reenumerate_expressmimo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/do_reenumerate_expressmimo.sh
+END
+fileops.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/fileops.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/COPYING
+END
+module_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/module_main.c
+END
+exmimo_fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/exmimo_fw.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/extern.h
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/Makefile
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/compile.sh
+END
+do_reinsert_driver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/do_reinsert_driver.sh
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/DRIVER/eurecom/vars.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGI
+END
+sgi_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGI/sgi_task.c
+END
+sgi_nf.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGI/sgi_nf.c
+END
+sgi_pcap.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGI/sgi_pcap.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGI/COPYING
+END
+sgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGI/sgi.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGI/Makefile.am
+END
+sgi_egress.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGI/sgi_egress.c
+END
+sgi_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGI/sgi_socket.c
+END
+sgi_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGI/sgi_util.c
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/COPYING
+END
+register.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/register.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/Makefile
+END
+layer2_top.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/layer2_top.c
+END
+openair2_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/openair2_proc.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/Makefile.inc
+END
+register.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/register.c
+END

@@ -1,21 +1,21 @@
 sctp_primitives_server.lo: sctp_primitives_server.c \
- /usr/include/stdc-predef.h /usr/include/pthread.h \
- /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/pthread.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/bits/predefs.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h /usr/include/endian.h \
  /usr/include/x86_64-linux-gnu/bits/endian.h \
- /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h /usr/include/sched.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
- /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/sched.h \
- /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h /usr/include/time.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stddef.h /usr/include/time.h \
  /usr/include/x86_64-linux-gnu/bits/sched.h \
  /usr/include/x86_64-linux-gnu/bits/time.h /usr/include/xlocale.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
  /usr/include/x86_64-linux-gnu/bits/setjmp.h /usr/include/stdio.h \
  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
- /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
  /usr/include/x86_64-linux-gnu/bits/stdio.h \
@@ -28,8 +28,6 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
  /usr/include/x86_64-linux-gnu/bits/sigset.h \
  /usr/include/x86_64-linux-gnu/bits/select2.h \
  /usr/include/x86_64-linux-gnu/sys/sysmacros.h /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib.h /usr/include/unistd.h \
  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
@@ -45,14 +43,13 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
  /usr/include/x86_64-linux-gnu/sys/uio.h \
  /usr/include/x86_64-linux-gnu/bits/uio.h \
  /usr/include/x86_64-linux-gnu/bits/socket.h \
- /usr/include/x86_64-linux-gnu/bits/socket_type.h \
  /usr/include/x86_64-linux-gnu/bits/sockaddr.h \
  /usr/include/x86_64-linux-gnu/asm/socket.h \
  /usr/include/asm-generic/socket.h \
  /usr/include/x86_64-linux-gnu/asm/sockios.h \
  /usr/include/asm-generic/sockios.h \
  /usr/include/x86_64-linux-gnu/bits/socket2.h /usr/include/netinet/in.h \
- /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h /usr/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/in.h /usr/include/netinet/sctp.h \
  /usr/include/linux/types.h /usr/include/x86_64-linux-gnu/asm/types.h \
@@ -62,9 +59,9 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
  /usr/include/linux/stddef.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
- /usr/include/asm-generic/posix_types.h /usr/include/arpa/inet.h \
- ../INTERTASK_INTERFACE/assertions.h ../INTERTASK_INTERFACE/backtrace.h \
- /usr/include/signal.h /usr/include/x86_64-linux-gnu/bits/signum.h \
+ /usr/include/arpa/inet.h ../INTERTASK_INTERFACE/assertions.h \
+ ../INTERTASK_INTERFACE/backtrace.h /usr/include/signal.h \
+ /usr/include/x86_64-linux-gnu/bits/signum.h \
  /usr/include/x86_64-linux-gnu/bits/siginfo.h \
  /usr/include/x86_64-linux-gnu/bits/sigaction.h \
  /usr/include/x86_64-linux-gnu/bits/sigcontext.h \
@@ -73,14 +70,13 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
  /usr/include/x86_64-linux-gnu/bits/sigthread.h \
  ../INTERTASK_INTERFACE/intertask_interface.h \
  /usr/include/x86_64-linux-gnu/sys/epoll.h \
- /usr/include/x86_64-linux-gnu/bits/epoll.h \
  ../COMMON/intertask_interface_conf.h \
  ../INTERTASK_INTERFACE/intertask_interface_types.h \
  ../INTERTASK_INTERFACE/itti_types.h ../COMMON/messages_types.h \
  ../INTERTASK_INTERFACE/intertask_messages_types.h \
  ../INTERTASK_INTERFACE/timer_messages_types.h ../COMMON/security_types.h \
- ../config.h /usr/include/x86_64-linux-gnu/gmp.h /usr/include/inttypes.h \
- ../COMMON/gtpv1_u_messages_types.h \
+ ../config.h /usr/include/gmp.h /usr/include/gmp-x86_64.h \
+ /usr/include/inttypes.h ../COMMON/gtpv1_u_messages_types.h \
  ../COMMON/../SGW-LITE/sgw_lite_ie_defs.h ../COMMON/common_types.h \
  ../NAS/EURECOM-NAS/src/include/commonDef.h ../UTILS/queue.h \
  ../COMMON/ip_forward_messages_types.h ../COMMON/s11_messages_types.h \
@@ -236,11 +232,11 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
  ../UTILS/mme_default_values.h ../UTILS/conversions.h sctp_common.h \
  sctp_itti_messaging.h
 
-/usr/include/stdc-predef.h:
-
 /usr/include/pthread.h:
 
 /usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/bits/predefs.h:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
 
@@ -256,15 +252,13 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
 
 /usr/include/x86_64-linux-gnu/bits/byteswap.h:
 
+/usr/include/sched.h:
+
 /usr/include/x86_64-linux-gnu/bits/types.h:
 
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
-/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
-
-/usr/include/sched.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/4.6/include/stddef.h:
 
 /usr/include/time.h:
 
@@ -286,7 +280,7 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
 
 /usr/include/wchar.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdarg.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
@@ -315,10 +309,6 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
 /usr/include/x86_64-linux-gnu/sys/sysmacros.h:
 
 /usr/include/alloca.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib.h:
 
@@ -362,8 +352,6 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
 
 /usr/include/x86_64-linux-gnu/bits/socket.h:
 
-/usr/include/x86_64-linux-gnu/bits/socket_type.h:
-
 /usr/include/x86_64-linux-gnu/bits/sockaddr.h:
 
 /usr/include/x86_64-linux-gnu/asm/socket.h:
@@ -378,7 +366,7 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
 
 /usr/include/netinet/in.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdint.h:
 
 /usr/include/stdint.h:
 
@@ -408,8 +396,6 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
 
 /usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
 
-/usr/include/asm-generic/posix_types.h:
-
 /usr/include/arpa/inet.h:
 
 ../INTERTASK_INTERFACE/assertions.h:
@@ -436,8 +422,6 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
 
 /usr/include/x86_64-linux-gnu/sys/epoll.h:
 
-/usr/include/x86_64-linux-gnu/bits/epoll.h:
-
 ../COMMON/intertask_interface_conf.h:
 
 ../INTERTASK_INTERFACE/intertask_interface_types.h:
@@ -454,7 +438,9 @@ sctp_primitives_server.lo: sctp_primitives_server.c \
 
 ../config.h:
 
-/usr/include/x86_64-linux-gnu/gmp.h:
+/usr/include/gmp.h:
+
+/usr/include/gmp-x86_64.h:
 
 /usr/include/inttypes.h:
 

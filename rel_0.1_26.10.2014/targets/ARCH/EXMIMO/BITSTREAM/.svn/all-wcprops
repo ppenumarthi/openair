@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/BITSTREAM
+END
+express-mimo2.bit
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/BITSTREAM/express-mimo2.bit
+END
+express-mimo2.ipf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/BITSTREAM/express-mimo2.ipf
+END
+prom_generate.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/BITSTREAM/prom_generate.cmd
+END
+exmimo2_prom.prm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/BITSTREAM/exmimo2_prom.prm
+END
+exmimo2_prom.cfi
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/BITSTREAM/exmimo2_prom.cfi
+END
+exmimo2_prom.mcs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/BITSTREAM/exmimo2_prom.mcs
+END
+prom_load.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/BITSTREAM/prom_load.cmd
+END
+express-mimo2.msk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/BITSTREAM/express-mimo2.msk
+END
+program_fpga
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/BITSTREAM/program_fpga
+END

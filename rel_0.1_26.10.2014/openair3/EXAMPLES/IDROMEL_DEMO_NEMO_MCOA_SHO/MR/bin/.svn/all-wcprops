@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/bin
+END
+params.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/bin/params.sh
+END
+ip_config_mr_sho.sh
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/bin/ip_config_mr_sho.sh
+END
+HOtrigger.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/bin/HOtrigger.sh
+END
+start_mr_user
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/bin/start_mr_user
+END
+waitfortime
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/bin/waitfortime
+END
+initMR.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/bin/initMR.sh
+END

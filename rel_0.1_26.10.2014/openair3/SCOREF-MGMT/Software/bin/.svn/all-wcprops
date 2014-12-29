@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/bin
+END
+MGMT.conf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/bin/MGMT.conf
+END
+valgrind.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/bin/valgrind.sh
+END

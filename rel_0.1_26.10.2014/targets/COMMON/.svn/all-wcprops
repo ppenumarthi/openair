@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/COMMON
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/COMMON/COPYING
+END
+create_tasks.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/COMMON/create_tasks.c
+END
+create_tasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/COMMON/create_tasks.h
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/COMMON/Makefile.inc
+END

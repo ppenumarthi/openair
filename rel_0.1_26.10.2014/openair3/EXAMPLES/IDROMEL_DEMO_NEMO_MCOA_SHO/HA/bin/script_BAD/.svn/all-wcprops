@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD
+END
+waitfortime
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/waitfortime
+END
+getlog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/getlog.sh
+END
+tcp_send_CBR.sh
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/tcp_send_CBR.sh
+END
+initAR.sh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/initAR.sh
+END
+tcp_recv_dump.sh
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/tcp_recv_dump.sh
+END
+HOtrigger.sh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/HOtrigger.sh
+END
+deinitCN.sh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/deinitCN.sh
+END
+tcp_send.sh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/tcp_send.sh
+END
+initMR.sh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/initMR.sh
+END
+waitfortime.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/waitfortime.c
+END
+run_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/run_test.sh
+END
+tcp_recv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/tcp_recv.sh
+END
+radioconfig_WLAN.sh
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/radioconfig_WLAN.sh
+END
+initHA.sh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/initHA.sh
+END
+deinitLFN.sh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/deinitLFN.sh
+END
+setting.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/setting.sh
+END
+radioconfig_3G.sh
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/radioconfig_3G.sh
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/src/api/network
+END
+network_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/src/api/network/network_api.c
+END
+nas_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/src/api/network/nas_message.c
+END
+l2_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/src/api/network/l2_message.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/src/api/network/COPYING
+END
+as_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/src/api/network/as_message.c
+END
+network_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/src/api/network/network_api.h
+END
+nas_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/src/api/network/nas_message.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/src/api/network/Makefile
+END
+as_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/NAS/EURECOM-NAS/src/api/network/as_message.h
+END

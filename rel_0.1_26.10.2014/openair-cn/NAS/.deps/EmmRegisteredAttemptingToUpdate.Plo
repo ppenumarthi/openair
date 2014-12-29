@@ -1,5 +1,2 @@
 EmmRegisteredAttemptingToUpdate.lo: \
- EURECOM-NAS/src/emm/sap/EmmRegisteredAttemptingToUpdate.c \
- /usr/include/stdc-predef.h
-
-/usr/include/stdc-predef.h:
+ EURECOM-NAS/src/emm/sap/EmmRegisteredAttemptingToUpdate.c

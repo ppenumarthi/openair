@@ -1,3 +1,1 @@
-IdleMode.lo: EURECOM-NAS/src/emm/IdleMode.c /usr/include/stdc-predef.h
-
-/usr/include/stdc-predef.h:
+IdleMode.lo: EURECOM-NAS/src/emm/IdleMode.c

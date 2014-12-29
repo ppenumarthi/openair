@@ -28,6 +28,7 @@ Description	Implements the network simulator running at the network
 #include "api/network/nas_message.h"
 #include "emm/msg/emm_cause.h"
 #include "esm/msg/esm_cause.h"
+#include "emmData.h"
 
 #include "util/nas_log.h"
 
@@ -448,7 +449,8 @@ static int _process_establish_req(const nas_establish_req_t* req,
 
     /* Decode dedicated NAS information data */
     nas_message_t l3_msg;
-    rc = nas_message_decode((char*)nas_msg->data, &l3_msg, nas_msg->length);
+    emm_security_context_t *security = NULL;
+    rc = nas_message_decode((char*)nas_msg->data, &l3_msg, nas_msg->length, security);
     if (rc < 0) {
 	/* Transmission failure */
 	printf("ERROR\t: Failed to decode NAS message (rc=%d)", rc);
@@ -485,8 +487,9 @@ static int _process_establish_req(const nas_establish_req_t* req,
 
 
     if (rc != RETURNerror) {
+    	emm_security_context_t *security = NULL;
 	int bytes = nas_message_encode(_network_simulator_buffer, &l3_msg,
-				       NETWORK_SIMULATOR_BUFFER_SIZE);
+				       NETWORK_SIMULATOR_BUFFER_SIZE, security);
 
 	static int _establish_req_failure_counter = 0;
 	if (_establish_req_failure_counter > 0) {
@@ -554,7 +557,8 @@ static int _process_ul_info_transfer_req(const ul_info_transfer_req_t* req,
 
     /* Decode NAS information data */
     nas_message_t l3_msg;
-    rc = nas_message_decode((char*)nas_msg->data, &l3_msg, nas_msg->length);
+    emm_security_context_t *security = NULL;
+    rc = nas_message_decode((char*)nas_msg->data, &l3_msg, nas_msg->length, security);
     if (rc < 0) {
 	/* Transmission failure */
 	printf("ERROR\t: Failed to decode NAS message (rc=%d)", rc);

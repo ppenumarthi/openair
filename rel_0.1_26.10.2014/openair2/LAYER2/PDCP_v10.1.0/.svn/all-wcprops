@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0
+END
+pdcp_primitives.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_primitives.c
+END
+pdcp_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_proto_extern.h
+END
+pdcp_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_primitives.h
+END
+pdcp_sequence_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_sequence_manager.c
+END
+pdcp_netlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_netlink.c
+END
+pdcp_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_thread.c
+END
+pdcp_sequence_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_sequence_manager.h
+END
+pdcp_security.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_security.c
+END
+pdcp_control_primitives_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_control_primitives_proto_extern.h
+END
+pdcp_control_primitive.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_control_primitive.c
+END
+pdcp_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_util.c
+END
+pdcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/COPYING
+END
+pdcp_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_util.h
+END
+pdcp_fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp_fifo.c
+END
+pdcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/PDCP_v10.1.0/pdcp.h
+END

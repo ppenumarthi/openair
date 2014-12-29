@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer
+END
+lfds611_ringbuffer_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_internal.h
+END
+lfds611_ringbuffer_delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_delete.c
+END
+lfds611_ringbuffer_query.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_query.c
+END
+lfds611_ringbuffer_get_and_put.c
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_get_and_put.c
+END
+lfds611_ringbuffer_new.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_new.c
+END

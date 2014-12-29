@@ -22,10 +22,10 @@
 #define GNUTLS_VERSION_210 1
 
 /* Define to 1 if you have gnutls 3.0 installed */
-#define GNUTLS_VERSION_300 1
+/* #undef GNUTLS_VERSION_300 */
 
 /* Define to 1 if you have gnutls 3.1 installed */
-#define GNUTLS_VERSION_310 1
+/* #undef GNUTLS_VERSION_310 */
 
 /* Define to 1 if you have AI_ADDRCONFIG defined in netdb.h */
 #define HAVE_AI_ADDRCONFIG 1
@@ -225,7 +225,7 @@
 #define PACKAGE_NAME "oai_epc"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "oai_epc 0.3.6278"
+#define PACKAGE_STRING "oai_epc 0.3.6300"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "oai_epc"
@@ -234,7 +234,7 @@
 #define PACKAGE_URL ""
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "0.3.6278"
+#define PACKAGE_VERSION "0.3.6300"
 
 /* Define to 1 if sctp_connectx function accepts 4 arguments */
 #define SCTP_CONNECTX_4_ARGS /**/
@@ -254,7 +254,7 @@
 /* #undef SVN_REVISION */
 
 /* Version number of package */
-#define VERSION "0.3.6278"
+#define VERSION "0.3.6300"
 
 /* Define WORDS_BIGENDIAN to 1 if your processor stores words with the most
    significant byte first (like Motorola and SPARC, unlike Intel). */

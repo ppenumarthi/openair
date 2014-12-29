@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/RF
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/RF/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/RF/COPYING
+END
+adc.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/RF/adc.c
+END
+dac.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/RF/dac.c
+END
+rf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/RF/rf.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/RF/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/RF/Makefile
+END

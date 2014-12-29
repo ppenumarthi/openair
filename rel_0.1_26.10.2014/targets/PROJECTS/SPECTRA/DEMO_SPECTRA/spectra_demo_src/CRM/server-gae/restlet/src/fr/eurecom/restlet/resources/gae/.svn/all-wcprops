@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/gae
+END
+DispatcherSenml.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/gae/DispatcherSenml.java
+END
+Dispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/gae/Dispatcher.java
+END
+ResourcesServletGAE.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/gae/ResourcesServletGAE.java
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR
+END
+generation.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/generation.m
+END
+OFDM_TX_FRAME_MIMO.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/OFDM_TX_FRAME_MIMO.m
+END
+peaksfinder.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/peaksfinder.m
+END
+generation_ca.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/generation_ca.m
+END
+emos_read.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/emos_read.m
+END
+OFDM_RX.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/OFDM_RX.m
+END
+OFDM_TX.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/OFDM_TX.m
+END
+tx_sig_ca.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/tx_sig_ca.m
+END
+emos_read_ca.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/emos_read_ca.m
+END
+corridor_read_mat_files.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/corridor_read_mat_files.m
+END
+emos_read_v2.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/emos_read_v2.m
+END
+init_params.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/init_params.m
+END
+OFDM_TX_FRAME.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/OFDM_TX_FRAME.m
+END
+LanczosKernel.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/LanczosKernel.m
+END
+exmimo2_39_0.8G.mat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/exmimo2_39_0.8G.mat
+END
+log_read.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/log_read.m
+END
+QAM_MOD.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/QAM_MOD.m
+END
+exmimo2_39_comb.mat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/exmimo2_39_comb.mat
+END
+ofdm_pilots_sync_30MHz.mat
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/ofdm_pilots_sync_30MHz.mat
+END
+exmimo2_39_2.6G_v2.mat
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/exmimo2_39_2.6G_v2.mat
+END
+CORRIDOR channel sounding.docx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/CORRIDOR/CORRIDOR%20channel%20sounding.docx
+END

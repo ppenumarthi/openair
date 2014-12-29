@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/Abstraction
+END
+demap_q.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/Abstraction/demap_q.m
+END
+data_extraction.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/Abstraction/data_extraction.m
+END
+data_collection_mode5.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/Abstraction/data_collection_mode5.m
+END
+delta_BLER.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/Abstraction/delta_BLER.m
+END
+delta_BLER_1.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/Abstraction/delta_BLER_1.m
+END
+beta_training_EESM.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/Abstraction/beta_training_EESM.m
+END
+opposite_q.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/Abstraction/opposite_q.m
+END

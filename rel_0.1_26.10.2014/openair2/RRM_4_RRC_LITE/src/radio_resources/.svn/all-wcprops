@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources
+END
+RadioResources.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/RadioResources.cpp
+END
+Transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/Transaction.h
+END
+ENodeB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/ENodeB.cpp
+END
+SignallingRadioBearer.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/SignallingRadioBearer.h
+END
+RadioResources.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/RadioResources.h
+END
+ENodeB.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/ENodeB.h
+END
+LogicalChannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/LogicalChannel.cpp
+END
+Mobile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/Mobile.cpp
+END
+LogicalChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/LogicalChannel.h
+END
+Transactions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/Transactions.cpp
+END
+DataRadioBearer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/DataRadioBearer.cpp
+END
+Mobile.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/Mobile.h
+END
+Transactions.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/Transactions.h
+END
+DataRadioBearer.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/DataRadioBearer.h
+END
+Command.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/Command.cpp
+END
+RadioBearer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/RadioBearer.cpp
+END
+Command.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/Command.h
+END
+Asn1Utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/Asn1Utils.cpp
+END
+RadioBearer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/RadioBearer.h
+END
+Transaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/Transaction.cpp
+END
+Exceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/Exceptions.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/COPYING
+END
+SignallingRadioBearer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/SignallingRadioBearer.cpp
+END
+Asn1Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/radio_resources/Asn1Utils.h
+END

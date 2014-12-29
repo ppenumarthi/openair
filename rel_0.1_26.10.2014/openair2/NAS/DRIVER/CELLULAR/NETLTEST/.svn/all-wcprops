@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/CELLULAR/NETLTEST
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/CELLULAR/NETLTEST/Makefile
+END
+nettestPDCP.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/CELLULAR/NETLTEST/nettestPDCP.c
+END
+netltest
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/CELLULAR/NETLTEST/netltest
+END
+netltest.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/NAS/DRIVER/CELLULAR/NETLTEST/netltest.c
+END

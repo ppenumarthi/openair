@@ -1,5 +1,2 @@
 EmmRegisteredImsiDetachInitiated.lo: \
- EURECOM-NAS/src/emm/sap/EmmRegisteredImsiDetachInitiated.c \
- /usr/include/stdc-predef.h
-
-/usr/include/stdc-predef.h:
+ EURECOM-NAS/src/emm/sap/EmmRegisteredImsiDetachInitiated.c

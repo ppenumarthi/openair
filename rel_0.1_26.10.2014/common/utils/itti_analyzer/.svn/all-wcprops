@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/ChangeLog
+END
+filters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/filters.xml
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/README
+END
+itti_analyzer.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/itti_analyzer.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/configure.ac
+END
+filters_ue_enb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/filters_ue_enb.xml
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/AUTHORS
+END
+filters_mme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/filters_mme.xml
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/INSTALL
+END

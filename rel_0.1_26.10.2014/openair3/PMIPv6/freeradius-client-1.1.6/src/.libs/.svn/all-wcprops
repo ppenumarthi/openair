@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/src/.libs
+END
+radstatus
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/src/.libs/radstatus
+END
+radlogin
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/src/.libs/radlogin
+END
+radembedded
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/src/.libs/radembedded
+END
+radacct
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/src/.libs/radacct
+END
+radexample
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/src/.libs/radexample
+END
+radiusclient
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/src/.libs/radiusclient
+END

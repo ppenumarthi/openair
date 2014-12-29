@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6168/releases/rel_0.1_26.10.2014/targets
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/Makefile
+END
+Makedirectives
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/Makedirectives
+END
+itti_vcd_tasks.sav
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/itti_vcd_tasks.sav
+END
+build_oai.bash
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/6165/releases/rel_0.1_26.10.2014/targets/build_oai.bash
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/Makefile.common
+END
+Makerules
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/Makerules
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/COPYING
+END
+build_helper.bash
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/6168/releases/rel_0.1_26.10.2014/targets/build_helper.bash
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/README.txt
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/etc
+END
+nsswitch.conf
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/etc/nsswitch.conf
+END
+mr_mcoa_sho.conf
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/etc/mr_mcoa_sho.conf
+END
+rc.local
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/etc/rc.local
+END
+resolv.conf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/etc/resolv.conf
+END
+hosts
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/etc/hosts
+END
+interfaces
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/etc/interfaces
+END
+config.gz
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/etc/config.gz
+END
+radvd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/MR/etc/radvd.conf
+END

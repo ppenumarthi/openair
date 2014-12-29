@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC
+END
+rlc_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/rlc_primitives.h
+END
+rlc_mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/rlc_mac.c
+END
+mac_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/mac_primitives.h
+END
+rlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/rlc.c
+END
+rlc_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/rlc_def.h
+END
+rlc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/rlc.h
+END
+rlc_rrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/rlc_rrc.c
+END
+rlc_def_lte.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/rlc_def_lte.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/COPYING
+END
+rlc_mpls.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/rlc_mpls.c
+END

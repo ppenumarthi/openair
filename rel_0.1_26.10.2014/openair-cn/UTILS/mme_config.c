@@ -145,21 +145,8 @@ void mme_config_init(mme_config_t *mme_config_p)
     mme_config_p->gummei.plmn_mcc[0] = PLMN_MCC;
     mme_config_p->gummei.plmn_mnc[0] = PLMN_MNC;
     mme_config_p->gummei.plmn_tac[0] = PLMN_TAC;
-/* Phani additions */
-    mme_config_p->gummei.plmn_mnc_len = calloc(1, sizeof(*mme_config_p->gummei.plmn_mnc_len));
-    //mme_config_p->gummei.plmn_mnc_len[0] = strlen(PLMN_MNC);
-    //int nDigits = floor(log10(abs(mme_config_p->gummei.plmn_mnc[0]))) + 1;
-    //mme_config_p->gummei.plmn_mnc_len[0] = nDigits;
-    mme_config_p->gummei.plmn_mnc_len[0] = 2;
-
 
     mme_config_p->s1ap_config.outcome_drop_timer_sec = S1AP_OUTCOME_TIMER_DEFAULT;
-        
-
-	fprintf(stdout," mme_config_p->gummei.nb_plmns:  %d\n", mme_config_p->gummei.nb_plmns);
-	fprintf(stdout," mme_config_p->gummei.plmn_mnc:  %s and %d\n", mme_config_p->gummei.plmn_mnc,*mme_config_p->gummei.plmn_mnc);
-	fprintf(stdout," mme_config_p->gummei.plmn_mcc:  %s and %d\n",mme_config_p->gummei.plmn_mcc, mme_config_p->gummei.plmn_mcc);
-	fprintf(stdout," mme_config_p->gummei.plmn_tac:  %s and %d\n", mme_config_p->gummei.plmn_tac, mme_config_p->gummei.plmn_tac);
 }
 
 static int config_parse_file(mme_config_t *mme_config_p)

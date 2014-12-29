@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/foreign/sql
+END
+sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/foreign/sql/sqlite3.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/foreign/sql/Makefile.am
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/foreign/sql/sqlite3.h
+END

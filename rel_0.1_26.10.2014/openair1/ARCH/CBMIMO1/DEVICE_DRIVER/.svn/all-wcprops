@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/Makefile
+END
+cbmimo1_rf_cntl.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_rf_cntl.c
+END
+exmimo_fw.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/exmimo_fw.h
+END
+cbmimo1_get_frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_get_frame.c
+END
+from_grlib_softregs.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/from_grlib_softregs.h
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/Makefile.inc
+END
+fifo_printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/fifo_printf.c
+END
+cbmimo1_generate_ofdm.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_generate_ofdm.c
+END
+cbmimo1_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_device.c
+END
+cbmimo1_fileops.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_fileops.c
+END
+cbmimo1_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_dma.c
+END
+from_grlib_softconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/from_grlib_softconfig.h
+END
+gdb-debug.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/gdb-debug.sh
+END
+do_loadrtai.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/do_loadrtai.sh
+END
+cbmimo1_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_proc.c
+END
+cbmimo1_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_init.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/extern.h
+END
+cbmimo1_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_device.h
+END
+cbmimo1_generate_fs4.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_generate_fs4.c
+END
+do_make_kernel_driver_exmimo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/do_make_kernel_driver_exmimo.sh
+END
+do_reinsert_driver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/do_reinsert_driver.sh
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/vars.h
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/defs.h
+END
+cbmimo1_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_test.c
+END
+cbmimo1_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/cbmimo1_pci.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/COPYING
+END
+exmimo_fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/ARCH/CBMIMO1/DEVICE_DRIVER/exmimo_fw.c
+END

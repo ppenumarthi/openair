@@ -1,21 +1,20 @@
-sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
- /usr/include/pthread.h /usr/include/features.h \
+sgi_socket.lo: sgi_socket.c /usr/include/pthread.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/bits/predefs.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h /usr/include/endian.h \
  /usr/include/x86_64-linux-gnu/bits/endian.h \
- /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h /usr/include/sched.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
- /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/sched.h \
- /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h /usr/include/time.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stddef.h /usr/include/time.h \
  /usr/include/x86_64-linux-gnu/bits/sched.h \
  /usr/include/x86_64-linux-gnu/bits/time.h /usr/include/xlocale.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
  /usr/include/x86_64-linux-gnu/bits/setjmp.h /usr/include/stdio.h \
  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
- /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
  /usr/include/x86_64-linux-gnu/bits/stdio.h \
@@ -32,19 +31,16 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/assert.h /usr/include/fcntl.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl.h \
- /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
- /usr/include/x86_64-linux-gnu/bits/stat.h \
- /usr/include/x86_64-linux-gnu/bits/fcntl2.h \
- /usr/include/x86_64-linux-gnu/bits/waitflags.h \
- /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/x86_64-linux-gnu/sys/select.h \
  /usr/include/x86_64-linux-gnu/bits/select.h \
  /usr/include/x86_64-linux-gnu/bits/sigset.h \
  /usr/include/x86_64-linux-gnu/bits/select2.h \
- /usr/include/x86_64-linux-gnu/sys/sysmacros.h /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/stat.h \
+ /usr/include/x86_64-linux-gnu/bits/fcntl2.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
  /usr/include/x86_64-linux-gnu/sys/ioctl.h \
  /usr/include/x86_64-linux-gnu/bits/ioctls.h \
@@ -58,7 +54,6 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/sys/uio.h \
  /usr/include/x86_64-linux-gnu/bits/uio.h \
  /usr/include/x86_64-linux-gnu/bits/socket.h \
- /usr/include/x86_64-linux-gnu/bits/socket_type.h \
  /usr/include/x86_64-linux-gnu/bits/sockaddr.h \
  /usr/include/x86_64-linux-gnu/asm/socket.h \
  /usr/include/asm-generic/socket.h \
@@ -67,7 +62,6 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/bits/socket2.h \
  /usr/include/x86_64-linux-gnu/sys/mman.h \
  /usr/include/x86_64-linux-gnu/bits/mman.h \
- /usr/include/x86_64-linux-gnu/bits/mman-linux.h \
  /usr/include/x86_64-linux-gnu/asm/types.h \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
  /usr/include/x86_64-linux-gnu/asm/bitsperlong.h \
@@ -77,25 +71,23 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
  /usr/include/linux/stddef.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
- /usr/include/asm-generic/posix_types.h /usr/include/net/if_arp.h \
- /usr/include/linux/if_packet.h /usr/include/netinet/in.h \
- /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h /usr/include/stdint.h \
+ /usr/include/net/if_arp.h /usr/include/linux/if_packet.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/in.h /usr/include/poll.h \
  /usr/include/x86_64-linux-gnu/sys/poll.h \
- /usr/include/x86_64-linux-gnu/bits/poll.h \
- /usr/include/x86_64-linux-gnu/bits/poll2.h /usr/include/arpa/inet.h \
+ /usr/include/x86_64-linux-gnu/bits/poll.h /usr/include/arpa/inet.h \
  /usr/include/netinet/ip6.h /usr/include/inttypes.h \
  /usr/include/netinet/ip.h sgi.h ../COMMON/common_types.h \
  ../NAS/EURECOM-NAS/src/include/commonDef.h ../COMMON/security_types.h \
- ../config.h /usr/include/x86_64-linux-gnu/gmp.h ../UTILS/queue.h \
- ../UTILS/HASHTABLE/hashtable.h ../UTILS/HASHTABLE/obj_hashtable.h \
- ../UTILS/HASHTABLE/hashtable.h ../SGW-LITE/sgw_lite_ie_defs.h \
- ../COMMON/ip_forward_messages_types.h ../UTILS/mme_config.h \
- ../UTILS/mme_default_values.h ../SGW-LITE/spgw_config.h \
- ../INTERTASK_INTERFACE/intertask_interface.h \
+ ../config.h /usr/include/gmp.h /usr/include/gmp-x86_64.h \
+ ../UTILS/queue.h ../UTILS/HASHTABLE/hashtable.h \
+ ../UTILS/HASHTABLE/obj_hashtable.h ../UTILS/HASHTABLE/hashtable.h \
+ ../SGW-LITE/sgw_lite_ie_defs.h ../COMMON/ip_forward_messages_types.h \
+ ../UTILS/mme_config.h ../UTILS/mme_default_values.h \
+ ../SGW-LITE/spgw_config.h ../INTERTASK_INTERFACE/intertask_interface.h \
  /usr/include/x86_64-linux-gnu/sys/epoll.h \
- /usr/include/x86_64-linux-gnu/bits/epoll.h \
  ../COMMON/intertask_interface_conf.h \
  ../INTERTASK_INTERFACE/intertask_interface_types.h \
  ../INTERTASK_INTERFACE/itti_types.h ../COMMON/messages_types.h \
@@ -254,11 +246,11 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
  ../COMMON/udp_messages_def.h ../COMMON/mme_app_messages_def.h \
  ../COMMON/tasks_def.h
 
-/usr/include/stdc-predef.h:
-
 /usr/include/pthread.h:
 
 /usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/bits/predefs.h:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
 
@@ -274,15 +266,13 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
 
 /usr/include/x86_64-linux-gnu/bits/byteswap.h:
 
+/usr/include/sched.h:
+
 /usr/include/x86_64-linux-gnu/bits/types.h:
 
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
-/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
-
-/usr/include/sched.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/4.6/include/stddef.h:
 
 /usr/include/time.h:
 
@@ -304,7 +294,7 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
 
 /usr/include/wchar.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdarg.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
@@ -354,16 +344,6 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
 
 /usr/include/x86_64-linux-gnu/bits/fcntl.h:
 
-/usr/include/x86_64-linux-gnu/bits/fcntl-linux.h:
-
-/usr/include/x86_64-linux-gnu/bits/stat.h:
-
-/usr/include/x86_64-linux-gnu/bits/fcntl2.h:
-
-/usr/include/x86_64-linux-gnu/bits/waitflags.h:
-
-/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
-
 /usr/include/x86_64-linux-gnu/sys/types.h:
 
 /usr/include/x86_64-linux-gnu/sys/select.h:
@@ -376,11 +356,15 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
 
 /usr/include/x86_64-linux-gnu/sys/sysmacros.h:
 
+/usr/include/x86_64-linux-gnu/bits/stat.h:
+
+/usr/include/x86_64-linux-gnu/bits/fcntl2.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitflags.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
 /usr/include/alloca.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib.h:
 
@@ -410,8 +394,6 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
 
 /usr/include/x86_64-linux-gnu/bits/socket.h:
 
-/usr/include/x86_64-linux-gnu/bits/socket_type.h:
-
 /usr/include/x86_64-linux-gnu/bits/sockaddr.h:
 
 /usr/include/x86_64-linux-gnu/asm/socket.h:
@@ -427,8 +409,6 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
 /usr/include/x86_64-linux-gnu/sys/mman.h:
 
 /usr/include/x86_64-linux-gnu/bits/mman.h:
-
-/usr/include/x86_64-linux-gnu/bits/mman-linux.h:
 
 /usr/include/x86_64-linux-gnu/asm/types.h:
 
@@ -456,15 +436,13 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
 
 /usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
 
-/usr/include/asm-generic/posix_types.h:
-
 /usr/include/net/if_arp.h:
 
 /usr/include/linux/if_packet.h:
 
 /usr/include/netinet/in.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdint.h:
 
 /usr/include/stdint.h:
 
@@ -477,8 +455,6 @@ sgi_socket.lo: sgi_socket.c /usr/include/stdc-predef.h \
 /usr/include/x86_64-linux-gnu/sys/poll.h:
 
 /usr/include/x86_64-linux-gnu/bits/poll.h:
-
-/usr/include/x86_64-linux-gnu/bits/poll2.h:
 
 /usr/include/arpa/inet.h:
 
@@ -498,7 +474,9 @@ sgi.h:
 
 ../config.h:
 
-/usr/include/x86_64-linux-gnu/gmp.h:
+/usr/include/gmp.h:
+
+/usr/include/gmp-x86_64.h:
 
 ../UTILS/queue.h:
 
@@ -521,8 +499,6 @@ sgi.h:
 ../INTERTASK_INTERFACE/intertask_interface.h:
 
 /usr/include/x86_64-linux-gnu/sys/epoll.h:
-
-/usr/include/x86_64-linux-gnu/bits/epoll.h:
 
 ../COMMON/intertask_interface_conf.h:
 

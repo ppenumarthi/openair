@@ -23,6 +23,7 @@ Description	Defines functions executed by the Access-Stratum sublayer
 
 #include "nas_data.h"
 #include "nas_message.h"
+#include "emmData.h"
 
 #include <stdio.h>	// snprintf
 #include <string.h>	// memset
@@ -114,7 +115,8 @@ nas_process(
 
     /* Decode NAS message */
     memset(&nas_msg, 0, sizeof(nas_message_t));
-    bytes = nas_message_decode(msg, &nas_msg, size);
+    emm_security_context_t *security   = NULL;
+    bytes = nas_message_decode(msg, &nas_msg, size, security);
     if (bytes < 0) {
         printf("ERROR\t: %s - Failed to decode NAS message (err=%d)\n",
             __FUNCTION__, bytes);
@@ -634,8 +636,9 @@ _esm_message_container(
 	memset(&nas_msg, 0, sizeof(nas_message_t));
 
 	/* Decode ESM message container */
+        emm_security_context_t *security   = NULL;
 	bytes = nas_message_decode((char*)msg->esmmessagecontainercontents.value,
-			&nas_msg, msg->esmmessagecontainercontents.length);
+			&nas_msg, msg->esmmessagecontainercontents.length, security);
 	if (bytes < 0) {
 	    printf("ERROR\t: %s - Failed to decode ESM message container "
 		   "(err=%d)\n", __FUNCTION__, bytes);

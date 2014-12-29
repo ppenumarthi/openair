@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE
+END
+eRALlte_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/eRALlte_variables.h
+END
+mRALlte_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/mRALlte_proto.h
+END
+mRALlte_parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/mRALlte_parameters.h
+END
+eRALlte_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/eRALlte_constants.h
+END
+eRALlte_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/eRALlte_action.h
+END
+eRALlte_thresholds.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/eRALlte_thresholds.h
+END
+mRALlte_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/mRALlte_variables.h
+END
+eRALlte_subscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/eRALlte_subscribe.h
+END
+eRALlte_mih_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/eRALlte_mih_msg.h
+END
+mRALlte_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/mRALlte_constants.h
+END
+mRALlte_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/mRALlte_action.h
+END
+nas_rg_netlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/nas_rg_netlink.h
+END
+nas_ue_netlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/nas_ue_netlink.h
+END
+mRALlte_get.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/mRALlte_get.h
+END
+mRALlte_thresholds.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/mRALlte_thresholds.h
+END
+nasUE_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/nasUE_config.h
+END
+mRALlte_subscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/mRALlte_subscribe.h
+END
+mRALlte_mih_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/mRALlte_mih_msg.h
+END
+mRALlte_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/mRALlte_main.h
+END
+nas_ue_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/nas_ue_ioctl.h
+END
+eRALlte_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/eRALlte_proto.h
+END
+eRALlte_parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/eRALlte_parameters.h
+END
+rrc_d_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-DUMMY/INCLUDE/rrc_d_types.h
+END

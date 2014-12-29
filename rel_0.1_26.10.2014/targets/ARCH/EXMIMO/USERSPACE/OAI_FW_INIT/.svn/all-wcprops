@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OAI_FW_INIT
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OAI_FW_INIT/COPYING
+END
+sdr_expressmimo2_v10
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OAI_FW_INIT/sdr_expressmimo2_v10
+END
+elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OAI_FW_INIT/elf.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OAI_FW_INIT/Makefile
+END
+updatefw.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OAI_FW_INIT/updatefw.c
+END
+elftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OAI_FW_INIT/elftypes.h
+END
+sdr_expressmimo2_v9
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OAI_FW_INIT/sdr_expressmimo2_v9
+END
+sdr_expressmimo1
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OAI_FW_INIT/sdr_expressmimo1
+END
+sdr_expressmimo2
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OAI_FW_INIT/sdr_expressmimo2
+END
+updatefw.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OAI_FW_INIT/updatefw.h
+END

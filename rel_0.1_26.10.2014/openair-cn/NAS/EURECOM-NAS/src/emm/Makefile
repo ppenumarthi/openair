@@ -45,10 +45,12 @@ INCLUDES = -I. \
 	-I$(EMMMSGDIR) \
 	-I$(IESDIR) \
     -I$(OPENAIRCN_DIR)/COMMON \
-    -I$(OPENAIRCN_DIR)/SECU
+    -I$(OPENAIRCN_DIR)/SECU	\
+    -I$(OPENAIRCN_DIR)/NAS/EURECOM-NAS/src/api/mme	\
+    -I$(OPENAIRCN_DIR)/NAS/EURECOM-NAS/src/api/usim
 	
 
-all: $(OBJS)
+all: $(OBJS) $(OPENAIRCN_DIR)/NAS/EURECOM-NAS/src/api/usim/*.o $(OPENAIRCN_DIR)/NAS/EURECOM-NAS/src/api/mme/*.o
 	@$(CD) $(EMMMSGDIR) && $(MAKE)
 	@$(CD) $(EMMSAPDIR) && $(MAKE)
 
@@ -63,7 +65,7 @@ veryclean: clean
 
 %.o: %.c Makefile $(PROJDIR)/Makerules $(PROJDIR)/Makefile.inc
 	@echo Compiling $<
-	@$(CC) $(CFLAGS) -c $< -o $@
+	@$(CC) $(CFLAGS) -c $< -o $@ $(OPENAIRCN_DIR)/NAS/EURECOM-NAS/src/api/usim/*.o $(OPENAIRCN_DIR)/NAS/EURECOM-NAS/src/api/mme/*.o
 
 depend:
 	makedepend -- ${CFLAGS} -- ${SRCS}

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO
+END
+mr3_conf_nas_barca.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr3_conf_nas_barca.sh
+END
+mr1_nas_barca_indoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr1_nas_barca_indoor.sh
+END
+mr2_nas_barca_indoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr2_nas_barca_indoor.sh
+END
+mr2_nas_barca_outdoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr2_nas_barca_outdoor.sh
+END
+mr2_conf_nas_barca_indoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr2_conf_nas_barca_indoor.sh
+END
+start_openair.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/start_openair.sh
+END
+stop_rf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/stop_rf.sh
+END
+mpls_nas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mpls_nas.sh
+END
+ch1_nas_barca_outdoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/ch1_nas_barca_outdoor.sh
+END
+params.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/params.sh
+END
+ch1_conf_nas_barca_indoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/ch1_conf_nas_barca_indoor.sh
+END
+mr1_mpls_nas_barca.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr1_mpls_nas_barca.sh
+END
+mr3_mpls_barca.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr3_mpls_barca.sh
+END
+mr2_mpls_nas_barca.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr2_mpls_nas_barca.sh
+END
+ch1_conf_nas_barca_outdoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/ch1_conf_nas_barca_outdoor.sh
+END
+mr3_mpls_nas_barca.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr3_mpls_nas_barca.sh
+END
+ch2_conf_nas_barca_outdoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/ch2_conf_nas_barca_outdoor.sh
+END
+del_mpls.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/del_mpls.sh
+END
+ch1_nas_barca_outdoor_nopmip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/ch1_nas_barca_outdoor_nopmip.sh
+END
+mr1_nas_barca_outdoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr1_nas_barca_outdoor.sh
+END
+mr3_nas_barca_outdoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr3_nas_barca_outdoor.sh
+END
+mr1_conf_nas_barca_indoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr1_conf_nas_barca_indoor.sh
+END
+mr1_conf_nas_barca_outdoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr1_conf_nas_barca_outdoor.sh
+END
+mr2_conf_nas_barca_outdoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr2_conf_nas_barca_outdoor.sh
+END
+mr3_conf_nas_barca_outdoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr3_conf_nas_barca_outdoor.sh
+END
+ch1_nas_barca_indoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/ch1_nas_barca_indoor.sh
+END
+ch2_nas_barca_indoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/ch2_nas_barca_indoor.sh
+END
+ch2_nas_barca_outdoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/ch2_nas_barca_outdoor.sh
+END
+ch2_conf_nas_barca_indoor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/ch2_conf_nas_barca_indoor.sh
+END
+mr1_nas_barca_outdoor_nopmip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr1_nas_barca_outdoor_nopmip.sh
+END
+mr2_nas_barca_outdoor_nopmip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr2_nas_barca_outdoor_nopmip.sh
+END
+mr3_nas_barca.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/EXAMPLES/CONSEIL_SCIENTIFIQUE_DEMO/mr3_nas_barca.sh
+END

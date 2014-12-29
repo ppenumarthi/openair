@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/include
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/include/Makefile.in
+END
+pathnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/include/pathnames.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/include/Makefile.am
+END
+freeradius-client.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/include/freeradius-client.h
+END
+includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/include/includes.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/include/Makefile
+END
+messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/include/messages.h
+END

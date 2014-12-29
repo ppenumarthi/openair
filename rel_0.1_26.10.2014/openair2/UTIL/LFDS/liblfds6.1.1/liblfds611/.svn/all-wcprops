@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611
+END
+runme_before_win_kernel_dynamic_lib_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/runme_before_win_kernel_dynamic_lib_build.bat
+END
+liblfds611.def
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/liblfds611.def
+END
+makefile.windows
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/makefile.windows
+END
+runme_before_win_kernel_static_lib_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/runme_before_win_kernel_static_lib_build.bat
+END
+sources.dynamic
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/sources.dynamic
+END
+liblfds611.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/liblfds611.vcproj
+END
+sources.static
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/sources.static
+END
+makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/makefile.linux
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/readme.txt
+END
+building.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/building.txt
+END
+runme_before_win_kernel_build_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/runme_before_win_kernel_build_readme.txt
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/dirs
+END
+liblfds611.sln
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/liblfds611.sln
+END

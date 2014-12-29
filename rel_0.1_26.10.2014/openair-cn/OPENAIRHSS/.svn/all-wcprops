@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS
+END
+hss_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/hss_main.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/OPENAIRHSS/README
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/OPENAIRMME/OAISIM_MME
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/OPENAIRMME/OAISIM_MME/Makefile.am
+END
+oaisim_mme.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/OPENAIRMME/OAISIM_MME/oaisim_mme.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/OPENAIRMME/OAISIM_MME/Makefile.in
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/extern.h
+END
+impl_defs_lte.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/impl_defs_lte.h
+END
+spec_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/spec_defs.h
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/vars.h
+END
+spec_defs_top.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/spec_defs_top.h
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/Makefile.inc
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/COPYING
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/types.h
+END
+impl_defs_top.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/PHY/impl_defs_top.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping
+END
+NwMiniUlpEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniUlpEntity.h
+END
+NwMiniLogMgrEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniLogMgrEntity.c
+END
+NwEgtPingMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwEgtPingMain.c
+END
+NwMiniTmrMgrEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniTmrMgrEntity.c
+END
+NwMiniUdpEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniUdpEntity.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/Makefile.am
+END
+NwEvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwEvt.h
+END
+NwMiniLogMgrEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniLogMgrEntity.h
+END
+NwMiniTmrMgrEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniTmrMgrEntity.h
+END
+NwMiniUdpEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniUdpEntity.h
+END
+NwMiniUlpEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniUlpEntity.c
+END

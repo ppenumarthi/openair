@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/NEWS
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/install-sh
+END
+chkconf_kernel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/chkconf_kernel.sh
+END
+INSTALL.kernel
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/INSTALL.kernel
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/ChangeLog
+END
+THANKS
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/THANKS
+END
+README.NEMO
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/README.NEMO
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/README
+END
+README.IPsec
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/README.IPsec
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/BUGS
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/configure.ac
+END
+COPYING.NEMO
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/pmipv6-daemon-umip/COPYING.NEMO
+END

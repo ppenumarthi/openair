@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/Makefile.am
+END
+pgw_lite_paa.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/pgw_lite_paa.c
+END
+sgw_lite_handlers.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/sgw_lite_handlers.c
+END
+sgw_lite_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/sgw_lite_task.c
+END
+sgw_lite_ie_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/sgw_lite_ie_defs.h
+END
+pgw_lite_paa.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/pgw_lite_paa.h
+END
+sgw_lite_handlers.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/sgw_lite_handlers.h
+END
+spgw_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/spgw_config.c
+END
+s11_causes.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/s11_causes.c
+END
+spgw_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/spgw_config.h
+END
+sgw_lite_context_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/sgw_lite_context_manager.c
+END
+s11_causes.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/s11_causes.h
+END
+sgw_lite_context_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/sgw_lite_context_manager.h
+END
+sgw_lite.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/sgw_lite.h
+END
+sgw_lite_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SGW-LITE/sgw_lite_defs.h
+END

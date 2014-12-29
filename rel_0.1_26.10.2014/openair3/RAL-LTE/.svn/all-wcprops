@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/COPYING
+END
+RAL-LTE.readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/RAL-LTE.readme.txt
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/Makefile.inc
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF
+END
+enb.band39.conf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band39.conf
+END
+enb.sfr.sud.conf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.sfr.sud.conf
+END
+enb.dual.band7_band20.conf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.dual.band7_band20.conf
+END
+epc.pft.sud.conf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/epc.pft.sud.conf
+END
+enb.band13.exmimo2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band13.exmimo2.conf
+END
+enb.band7.usrpb210.conf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band7.usrpb210.conf
+END
+enb.sequans.sud.conf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.sequans.sud.conf
+END
+enb.pft.memphis.conf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.pft.memphis.conf
+END
+enb.band7.exmimo2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band7.exmimo2.conf
+END
+enb.band7.exmimo2_2a.conf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band7.exmimo2_2a.conf
+END
+enb.centos.nord.conf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.centos.nord.conf
+END
+epc.pft.memphis.conf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/epc.pft.memphis.conf
+END
+epc.sfr.default.vlan.conf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/epc.sfr.default.vlan.conf
+END
+enb.band38.conf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band38.conf
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP
+END
+mme_app_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_config.c
+END
+mme_app_location.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_location.c
+END
+mme_app_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_extern.h
+END
+mme_app_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_config.h
+END
+mme_app_itti_messaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_itti_messaging.h
+END
+mme_app_authentication.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_authentication.c
+END
+mme_app_ue_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_ue_context.h
+END
+mme_app_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_main.c
+END
+mme_app_context.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_context.c
+END
+mme_app_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_defs.h
+END
+mme_app_capabilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_capabilities.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/COPYING
+END
+mme_app_statistics.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_statistics.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/Makefile.am
+END
+s6a_2_nas_cause.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/s6a_2_nas_cause.c
+END
+mme_app_statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_statistics.h
+END
+mme_app_bearer.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/MME_APP/mme_app_bearer.c
+END

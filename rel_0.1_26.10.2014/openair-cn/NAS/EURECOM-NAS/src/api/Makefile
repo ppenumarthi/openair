@@ -40,11 +40,12 @@ export INCLUDES = -I. -I$(INCDIR) -I$(UTILDIR) -I$(IESDIR) \
                   -I$(ESMMSGDIR) \
                   -I$(SRCDIR) \
                   -I$(OPENAIRCN_DIR)/COMMON \
-                  -I$(OPENAIRCN_DIR)/SECU
+                  -I$(OPENAIRCN_DIR)/SECU	\
+		  -I/usr/include/openssl/cmac.h
 
 TARGET = $(LIBAPI)
 TARGETS = $(TARGET).a $(TARGET).so
-OBJS = $(USERAPIDIR)/*.o $(NETAPIDIR)/*.o $(USIMAPIDIR)/*.o $(MMEAPIDIR)/*.o
+OBJS = $(USERAPIDIR)/*.o $(NETAPIDIR)/*.o $(USIMAPIDIR)/*.o $(MMEAPIDIR)/*.o# $(OPENAIRCN_DIR)/SECU/*.o
 
 all:
 	@$(CD) $(NETAPIDIR)  && $(MAKE)
@@ -53,7 +54,7 @@ all:
 	@$(CD) $(MMEAPIDIR)  && $(MAKE)
 	@$(MAKE) $(TARGETS)
 
-$(TARGET).a: $(OBJS)
+$(TARGET).a: $(OBJS)  $(OPENAIRCN_DIR)/SECU/*.o
 	@echo target.a
 	@$(RM) $@
 	@$(AR) $(ARFLAGS) $@ $^

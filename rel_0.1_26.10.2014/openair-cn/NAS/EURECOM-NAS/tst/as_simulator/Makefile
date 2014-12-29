@@ -37,7 +37,8 @@ export LD_RUN_PATH = $(LIBDIR):$(LIBPROCESS)
 
 LIBS	 = -lutil -lapi -lEMMmsg -lESMmsg -lies -lrt
 INCLUDES = -I. -I$(INCDIR) -I$(UTILDIR) -I$(NETAPIDIR) \
-	-I$(EMMMSGDIR) -I$(ESMMSGDIR) -I$(IESDIR)
+	-I$(EMMMSGDIR) -I$(ESMMSGDIR) -I$(IESDIR)	\
+	-I$(EMMDIR) -I$(APIDIR)/mme -I$(EMMDIR)/sap -I$(ESMDIR)/sap -I$(ESMDIR)
 
 TARGET = ASprocess
 

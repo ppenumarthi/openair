@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/libbuffers
+END
+buffers.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/libbuffers/buffers.c
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/libbuffers/socket.h
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/libbuffers/file.c
+END
+buffers.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/libbuffers/buffers.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/libbuffers/file.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/libbuffers/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/libbuffers/Makefile.am
+END
+socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/common/utils/itti_analyzer/libbuffers/socket.c
+END

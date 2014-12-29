@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP
+END
+sctp_eNB_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_eNB_defs.h
+END
+sctp_itti_messaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_itti_messaging.h
+END
+sctp_primitives_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_primitives_server.c
+END
+sctp_eNB_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_eNB_task.c
+END
+sctp_primitives_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_primitives_server.h
+END
+sctp_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_common.c
+END
+sctp_primitives_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_primitives_client.c
+END
+sctp_eNB_itti_messaging.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_eNB_itti_messaging.c
+END
+sctp_eNB_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_eNB_task.h
+END
+sctp_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_common.h
+END
+sctp_primitives_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_primitives_client.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/COPYING
+END
+sctp_eNB_itti_messaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_eNB_itti_messaging.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/Makefile.am
+END
+sctp_itti_messaging.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_itti_messaging.c
+END
+Makefile.eNB
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/Makefile.eNB
+END
+sctp_default_values.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/SCTP/sctp_default_values.h
+END

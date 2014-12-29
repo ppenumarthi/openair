@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/Makefile.am
+END
+Makefile.objs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/Makefile.objs
+END
+Makefile.Defines.linux-x86-32
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/Makefile.Defines.linux-x86-32
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/NEWS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/README
+END
+Makefile.Defines.linux-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/Makefile.Defines.linux-x86-64
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/configure.ac
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/ChangeLog
+END
+Makefile.cvs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/Makefile.cvs
+END

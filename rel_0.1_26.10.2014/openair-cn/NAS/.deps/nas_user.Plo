@@ -1,3 +1,1 @@
-nas_user.lo: EURECOM-NAS/src/nas_user.c /usr/include/stdc-predef.h
-
-/usr/include/stdc-predef.h:
+nas_user.lo: EURECOM-NAS/src/nas_user.c

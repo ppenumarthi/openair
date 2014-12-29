@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/COPYING
+END
+rlc_um_fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_fsm.h
+END
+rlc_um_control_primitives.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_control_primitives.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/Makefile
+END
+rlc_um_very_simple_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_very_simple_test.c
+END
+rlc_um_control_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_control_primitives.h
+END
+rlc_um_segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_segment.c
+END
+rlc_um_very_simple_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_very_simple_test.h
+END
+rlc_um_receiver.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_receiver.c
+END
+rlc_um_reassembly.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_reassembly.c
+END
+rlc_um_dar.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_dar.c
+END
+rlc_um_segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_segment.h
+END
+rlc_um_receiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_receiver.h
+END
+rlc_um_reassembly.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_reassembly.h
+END
+rlc_um_dar.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_dar.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/README
+END
+rlc_um_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_structs.h
+END
+rlc_um_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_test.c
+END
+rlc_um.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um.c
+END
+rlc_um_entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_entity.h
+END
+rlc_um_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_constants.h
+END
+rlc_um_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_test.h
+END
+rlc_um_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_fsm.c
+END
+rlc_um.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um.h
+END

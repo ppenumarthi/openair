@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/login.radius/migs
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/login.radius/migs/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/login.radius/migs/Makefile.am
+END
+ip-up
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/login.radius/migs/ip-up
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/login.radius/migs/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/login.radius/migs/README
+END
+ip-down
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/login.radius/migs/ip-down
+END
+login.radius
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/login.radius/migs/login.radius
+END

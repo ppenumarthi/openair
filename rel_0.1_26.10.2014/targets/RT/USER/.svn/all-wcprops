@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6042/releases/rel_0.1_26.10.2014/targets/RT/USER
+END
+Makefile.msg_many
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/Makefile.msg_many
+END
+stats.fd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/stats.fd
+END
+ex2_2rflo.lime
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ex2_2rflo.lime
+END
+msg_many.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/msg_many.c
+END
+synctest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/synctest.c
+END
+lte_scope.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/lte_scope.c
+END
+init_b200.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/init_b200.sh
+END
+Makefile.agilent
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/Makefile.agilent
+END
+lte-softmodem.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/lte-softmodem.c
+END
+msg_many.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/msg_many.h
+END
+ue1rxg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ue1rxg.lime
+END
+ue2rxg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ue2rxg.lime
+END
+ue1rflo.lime
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ue1rflo.lime
+END
+ue1txg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ue1txg.lime
+END
+lte_scope.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/lte_scope.h
+END
+ue2txg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ue2txg.lime
+END
+make_for_usrp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/make_for_usrp.sh
+END
+sched_ulsch.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/sched_ulsch.c
+END
+enb2tx_850rflo.lime
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/enb2tx_850rflo.lime
+END
+msg_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/msg_helper.c
+END
+rt_wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/rt_wrapper.c
+END
+lte-enb.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/lte-enb.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/COPYING
+END
+enb2txrxg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/enb2txrxg.lime
+END
+.ue.nvram
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/.ue.nvram
+END
+zeptorflo.lime
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/zeptorflo.lime
+END
+enb4txrxg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/enb4txrxg.lime
+END
+enb2txtxg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/enb2txtxg.lime
+END
+enb2txrflo.lime
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/enb2txrflo.lime
+END
+rt_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/rt_wrapper.h
+END
+init_exmimo2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/6042/releases/rel_0.1_26.10.2014/targets/RT/USER/init_exmimo2.sh
+END
+enb4txrflo.lime
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/enb4txrflo.lime
+END
+rrh.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/rrh.c
+END
+.usim.nvram
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/.usim.nvram
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/Makefile
+END
+ex2_850rfdc.lime
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ex2_850rfdc.lime
+END
+ue.gtkw
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ue.gtkw
+END
+ex2_2rxg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ex2_2rxg.lime
+END
+ex2_2txg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ex2_2txg.lime
+END
+lte-softmodem-usrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/lte-softmodem-usrp.c
+END
+sleeptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/sleeptest.c
+END
+init_exmimo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/init_exmimo.sh
+END
+init_rtai.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/init_rtai.sh
+END
+.runinfo
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/.runinfo
+END
+ieee80211p-softmodem.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ieee80211p-softmodem.c
+END
+ex2_850rxg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ex2_850rxg.lime
+END
+sched_rx_pdsch.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/sched_rx_pdsch.c
+END
+ex2_850txg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ex2_850txg.lime
+END
+ex2_850rflo.lime
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ex2_850rflo.lime
+END
+ex2_2rfdc.lime
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ex2_2rfdc.lime
+END
+ue2rflo.lime
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/ue2rflo.lime
+END
+condtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/condtest.c
+END
+lte_scope.fd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/lte_scope.fd
+END
+.ue_emm.nvram
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/.ue_emm.nvram
+END
+zeptorxg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/zeptorxg.lime
+END
+dot11.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/dot11.c
+END
+emos-raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/emos-raw.c
+END
+eNB.gtkw
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/eNB.gtkw
+END
+stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/stats.c
+END
+sched_dlsch.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/sched_dlsch.c
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/RT/USER/stats.h
+END

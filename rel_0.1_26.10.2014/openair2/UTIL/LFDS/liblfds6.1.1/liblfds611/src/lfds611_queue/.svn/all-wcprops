@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue
+END
+lfds611_queue_new.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c
+END
+lfds611_queue_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_internal.h
+END
+lfds611_queue_delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_delete.c
+END
+lfds611_queue_queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_queue.c
+END
+lfds611_queue_query.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_query.c
+END

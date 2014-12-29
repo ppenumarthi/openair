@@ -1,4 +1,1 @@
-EmmDeregisteredNoImsi.lo: EURECOM-NAS/src/emm/sap/EmmDeregisteredNoImsi.c \
- /usr/include/stdc-predef.h
-
-/usr/include/stdc-predef.h:
+EmmDeregisteredNoImsi.lo: EURECOM-NAS/src/emm/sap/EmmDeregisteredNoImsi.c

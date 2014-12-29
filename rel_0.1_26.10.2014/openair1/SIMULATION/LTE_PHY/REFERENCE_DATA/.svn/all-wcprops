@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/REFERENCE_DATA
+END
+embms_20_25.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/REFERENCE_DATA/embms_20_25.m
+END
+pdcch_20MHz_awgn.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/REFERENCE_DATA/pdcch_20MHz_awgn.m
+END
+oai_embms_r39-1.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/REFERENCE_DATA/oai_embms_r39-1.png
+END
+embms.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/REFERENCE_DATA/embms.m
+END
+pdsch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/SIMULATION/LTE_PHY/REFERENCE_DATA/pdsch.txt
+END

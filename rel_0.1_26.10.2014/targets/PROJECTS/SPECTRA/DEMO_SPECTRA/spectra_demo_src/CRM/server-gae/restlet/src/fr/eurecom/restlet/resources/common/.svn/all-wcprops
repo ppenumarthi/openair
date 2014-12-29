@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common
+END
+ContactBaseResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ContactBaseResource.java
+END
+SensorPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/SensorPost.java
+END
+ContactsSubResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ContactsSubResource.java
+END
+ContactResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ContactResource.java
+END
+ZoneResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ZoneResource.java
+END
+ContactsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ContactsResource.java
+END
+ZonesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ZonesResource.java
+END
+SensorInResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/SensorInResource.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/Contact.java
+END

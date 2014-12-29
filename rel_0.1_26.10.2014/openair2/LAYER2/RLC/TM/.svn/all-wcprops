@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM
+END
+rlc_tm.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm.c
+END
+rlc_tm_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_constants.h
+END
+rlc_tm_entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_entity.h
+END
+rlc_tm_fsm_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_fsm_proto_extern.h
+END
+rlc_tm_segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_segment.c
+END
+rlc_tm_reassembly_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_reassembly_proto_extern.h
+END
+rlc_tm_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_fsm.c
+END
+rlc_tm_reassembly.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_reassembly.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/COPYING
+END
+rlc_tm_control_primitives_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_control_primitives_proto_extern.h
+END
+rlc_tm_control_primitives.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_control_primitives.c
+END
+rlc_tm_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_structs.h
+END
+rlc_tm_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_proto_extern.h
+END
+rlc_tm_segment_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/LAYER2/RLC/TM/rlc_tm_segment_proto_extern.h
+END

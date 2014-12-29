@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/foreign/generated_c_asn1_rrc
+END
+Makefile.am.sample
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair2/RRM_4_RRC_LITE/src/foreign/generated_c_asn1_rrc/Makefile.am.sample
+END

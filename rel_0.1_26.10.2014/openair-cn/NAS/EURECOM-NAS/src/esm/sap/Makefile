@@ -34,7 +34,8 @@ include $(PROJDIR)/Makerules
 include $(PROJDIR)/Makefile.inc
 
 INCLUDES = -I. -I$(INCDIR) -I$(UTILDIR) -I$(ESMDIR) \
-	-I$(IESDIR) -I$(ESMMSGDIR) -I$(EMMDIR) -I$(MMEAPIDIR) -I$(EMMSAPDIR)
+	-I$(IESDIR) -I$(ESMMSGDIR) -I$(EMMDIR) -I$(MMEAPIDIR) -I$(EMMSAPDIR) -I$(OPENAIRCN_DIR)/SECU \
+	-I$(EMMDIR)/msg -I$(APIDIR)/mme -I$(EMMDIR)/sap -I$(ESMDIR)/msg -I$(OPENAIR_HOME)/common/utils/itti	
 
 TARGET = $(LIBESMSAP)
 TARGETS = $(TARGET).a $(TARGET).so
@@ -47,7 +48,8 @@ all: $(TARGETS)
 
 $(TARGET).a: $(OBJS)
 	@$(RM) $@
-	@$(AR) $(ARFLAGS) $@ $(OBJS)
+	@$(AR) $(ARFLAGS) $@ $(OBJS) $(OPENAIRCN_DIR)/SECU/*.o $(ESMDIR)/msg/*.o $(EMMDIR)/sap/*.o $(EMMDIR)/msg/*.o $(OPENAIR_HOME)/common/utils/itti/*.o
+	#@$(AR) $(ARFLAGS) $@ $(OBJS) $(OPENAIRCN_DIR)/SECU/*.o
 	@echo Replacing $@ to $(LIBPROCESS)
 	@$(RM) $(LIBPROCESS)/$@
 	@$(CP) $@ $(LIBPROCESS)

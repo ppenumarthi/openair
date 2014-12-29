@@ -1,5 +1,2 @@
 EmmRegisteredNoCellAvailable.lo: \
- EURECOM-NAS/src/emm/sap/EmmRegisteredNoCellAvailable.c \
- /usr/include/stdc-predef.h
-
-/usr/include/stdc-predef.h:
+ EURECOM-NAS/src/emm/sap/EmmRegisteredNoCellAvailable.c

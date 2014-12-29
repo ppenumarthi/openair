@@ -370,7 +370,7 @@ int nas_message_decode(
     const char* const   buffer,
     nas_message_t      *msg,
     int                 length,
-    void               *security)
+    void               *security) 
 {
     LOG_FUNC_IN;
     emm_security_context_t *emm_security_context   = (emm_security_context_t*)security;

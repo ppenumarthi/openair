@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/common/openair_scripts
+END
+build_all.bash
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/common/openair_scripts/build_all.bash
+END
+env_802dot21.bash
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/common/openair_scripts/env_802dot21.bash
+END
+utils.bash
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/common/openair_scripts/utils.bash
+END

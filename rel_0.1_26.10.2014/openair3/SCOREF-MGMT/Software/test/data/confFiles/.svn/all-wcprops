@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/test/data/confFiles
+END
+testConfFile1.conf
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/test/data/confFiles/testConfFile1.conf
+END
+testConfFile2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/SCOREF-MGMT/Software/test/data/confFiles/testConfFile2.conf
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PDCP/with_rlc
+END
+Makefile.data_bearer
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PDCP/with_rlc/Makefile.data_bearer
+END
+test_pdcp_rlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PDCP/with_rlc/test_pdcp_rlc.c
+END
+readme_test_pdcp_rlc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/TEST/PDCP/with_rlc/readme_test_pdcp_rlc.txt
+END

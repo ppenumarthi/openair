@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/USRP/USERSPACE/LIB
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/USRP/USERSPACE/LIB/Makefile.inc
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/USRP/USERSPACE/LIB/COPYING
+END
+usrp_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/USRP/USERSPACE/LIB/usrp_lib.cpp
+END

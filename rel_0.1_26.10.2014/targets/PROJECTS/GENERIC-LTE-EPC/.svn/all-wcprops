@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC
+END
+start_sgi.bash
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/start_sgi.bash
+END
+start_enb_and_ue_virt.bash
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/start_enb_and_ue_virt.bash
+END
+utils.bash
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/utils.bash
+END
+start_enb.bash
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/start_enb.bash
+END
+interfaces.bash
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/interfaces.bash
+END
+start_epc.bash
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/start_epc.bash
+END
+start_ue.bash
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/start_ue.bash
+END
+start_hss.bash
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/start_hss.bash
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/COPYING
+END
+networks.bash
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/networks.bash
+END
+start_router.bash
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/start_router.bash
+END
+virtual_box.bash
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/GENERIC-LTE-EPC/virtual_box.bash
+END

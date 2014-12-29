@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/SENSING
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/SENSING/COPYING
+END
+main_sensing.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/SENSING/main_sensing.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/SENSING/Makefile
+END
+sensing_matlab.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/SENSING/sensing_matlab.m
+END

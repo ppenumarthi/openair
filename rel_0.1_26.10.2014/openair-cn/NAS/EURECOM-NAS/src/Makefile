@@ -47,11 +47,12 @@ ifeq ($(TARGET), UEprocess)
   SRCS = UEprocess.c nas_network.c nas_parser.c nas_proc.c nas_user.c
 endif
 
-LIBS		= -lutil -lapi -lEMMmsg -lESMmsg -lEMMsap -lESMsap -lies -lrt -lnettle -lcrypto -lm
+LIBS		= -lutil -lapi -lEMMmsg -lESMmsg -lEMMsap -lESMsap -lies -lrt -lnettle -lcrypto -lm -lconfig  -lnettle -lssl
+#DEFAULT_INCLUDES = -I. -I$(OPENAIR_HOME)/common/utils/itti
 INCLUDES	= -I. -I$(INCDIR) -I$(UTILDIR) -I$(USERAPIDIR) -I$(NETAPIDIR) \
 		-I$(EMMDIR) -I$(EMMMSGDIR) -I$(EMMSAPDIR) \
 		-I$(ESMDIR) -I$(ESMMSGDIR) -I$(ESMSAPDIR) \
-		-I$(IESDIR) -I$(MMEAPIDIR) 
+		-I$(IESDIR) -I$(MMEAPIDIR)  -I$(OPENAIR_HOME)/common/utils/itti -I/usr/include/openssl
 
 .PHONY: $(TARGET)
 
@@ -60,7 +61,8 @@ INCLUDES	= -I. -I$(INCDIR) -I$(UTILDIR) -I$(USERAPIDIR) -I$(NETAPIDIR) \
 	@$(CC) $(CFLAGS) -c $< -o $@
 
 $(TARGET): $(OBJS)
-	$(CC) $(LDFLAGS) -o $@ $^ $(EMMDIR)/*.o $(ESMDIR)/*.o $(SECUDIR)/*.o $(LIBS)
+	#$(CC) $(LDFLAGS) -o $@ $^ $(EMMDIR)/*.o $(ESMDIR)/*.o $(SECUDIR)/*.o $(LIBS)
+	$(CC) $(LDFLAGS) -o $@ $^ $(EMMDIR)/*.o $(ESMDIR)/*.o $(LIBS)
 	@echo Replacing $@ to $(BINDIR)
 	@$(RM) $(BINDIR)/$@
 	@$(CP) $@ $(BINDIR)

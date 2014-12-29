@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE
+END
+exmimo_test_multicard.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/exmimo_test_multicard.m
+END
+oarf_send_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/oarf_send_frame.cc
+END
+rx_spec_multicard_sync.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/rx_spec_multicard_sync.m
+END
+freq_calibration.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/freq_calibration.m
+END
+exmimo_test_loopback.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/exmimo_test_loopback.m
+END
+OFDM_TX_FRAME.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/OFDM_TX_FRAME.m
+END
+oarf_get_num_detected_cards.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/oarf_get_num_detected_cards.cc
+END
+exmimo_config_off.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/exmimo_config_off.m
+END
+exmimo2_rx_iqimbalance.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/exmimo2_rx_iqimbalance.m
+END
+lime_cal_rx.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/lime_cal_rx.m
+END
+exmimo2_tx_iqimbalance.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/exmimo2_tx_iqimbalance.m
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/Makefile
+END
+oarf_config_exmimo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/oarf_config_exmimo.cc
+END
+exmimo_config.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/exmimo_config.m
+END
+oarf_stop.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/oarf_stop.cc
+END
+initial_sync.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/initial_sync.m
+END
+oarf_get_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/oarf_get_frame.cc
+END
+rfldec.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/rfldec.m
+END
+rx_calibration_rffe.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/rx_calibration_rffe.m
+END
+txsig_ofdm.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/txsig_ofdm.m
+END
+rx_spec.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/rx_spec.m
+END
+lime_cal.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/lime_cal.m
+END
+oarf_stop_without_reset.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/oarf_stop_without_reset.cc
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/COPYING
+END
+QAM_MOD.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/QAM_MOD.m
+END
+rx_calibration_exmimo.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/rx_calibration_exmimo.m
+END
+exmimo_test_tx_rx.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/exmimo_test_tx_rx.m
+END
+rfl.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/rfl.m
+END
+gpib_send.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/gpib_send.cc
+END
+exmimo2_snr_nf.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/exmimo2_snr_nf.m
+END
+limeparms.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/limeparms.m
+END
+txsig.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/txsig.m
+END
+phasenoise.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/phasenoise.m
+END
+txsig_multicard_sync.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/txsig_multicard_sync.m
+END
+OFDM_TX.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/OFDM_TX.m
+END
+bitplots.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/ARCH/EXMIMO/USERSPACE/OCTAVE/bitplots.m
+END

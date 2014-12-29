@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/clientSensing/client
+END
+client
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/clientSensing/client/client
+END
+spectraClient
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/clientSensing/client/spectraClient
+END
+spectra_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/clientSensing/client/spectra_client.c
+END
+spectra_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/clientSensing/client/spectra_client.h
+END
+spectra_deamon.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/clientSensing/client/spectra_deamon.c
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/clientSensing/client/server
+END
+spectra.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/clientSensing/client/spectra.h
+END

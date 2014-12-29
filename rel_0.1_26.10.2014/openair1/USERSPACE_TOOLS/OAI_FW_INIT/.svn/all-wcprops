@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OAI_FW_INIT
+END
+elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OAI_FW_INIT/elf.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OAI_FW_INIT/Makefile
+END
+updatefw.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OAI_FW_INIT/updatefw.c
+END
+elftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OAI_FW_INIT/elftypes.h
+END
+main
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OAI_FW_INIT/main
+END
+updatefw.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OAI_FW_INIT/updatefw.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair1/USERSPACE_TOOLS/OAI_FW_INIT/COPYING
+END

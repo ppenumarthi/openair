@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/README
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/examples
+END
+clients.conf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/examples/clients.conf
+END
+radiusd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/examples/radiusd.conf
+END
+users
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/PMIPv6/freeradius-client-1.1.6/examples/users
+END

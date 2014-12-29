@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/include
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/tree.h
+END
+NwGtpv2cTunnel.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/NwGtpv2cTunnel.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/queue.h
+END
+NwGtpv2cPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/NwGtpv2cPrivate.h
+END
+NwGtpv2cMsgIeParseInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/NwGtpv2cMsgIeParseInfo.h
+END
+NwGtpv2cTrxn.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/NwGtpv2cTrxn.h
+END
+NwGtpv2cLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/NwGtpv2cLog.h
+END

@@ -33,7 +33,7 @@ endif
 include $(PROJDIR)/Makerules
 include $(PROJDIR)/Makefile.inc
 
-INCLUDES = -I. -I$(INCDIR) -I$(UTILDIR) -I$(IESDIR)
+INCLUDES = -I. -I$(INCDIR) -I$(UTILDIR) -I$(IESDIR) -I$(OPENAIRCN_DIR)/SECU
 
 TARGET = $(LIBEMMMSG)
 TARGETS = $(TARGET).a $(TARGET).so
@@ -46,7 +46,7 @@ all: $(TARGETS)
 
 $(TARGET).a: $(OBJS)
 	@$(RM) $@
-	@$(AR) $(ARFLAGS) $@ $(OBJS)
+	@$(AR) $(ARFLAGS) $@ $(OBJS) $(OPENAIRCN_DIR)/SECU/*.o
 	@echo Replacing $@ to $(LIBDIR)
 	@$(RM) $(LIBDIR)/$@
 	@$(CP) $@ $(LIBDIR)

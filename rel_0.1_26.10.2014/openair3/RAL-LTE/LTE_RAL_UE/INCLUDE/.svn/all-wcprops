@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE
+END
+lteRALue_subscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue_subscribe.h
+END
+lteRALue_mih_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue_mih_msg.h
+END
+lteRALue_parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue_parameters.h
+END
+lteRALue_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue_proto.h
+END
+lteRALue_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue_main.h
+END
+nas_ue_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/nas_ue_ioctl.h
+END
+lteRALue_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue_variables.h
+END
+lteRALue_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue_constants.h
+END
+lteRALue_rrc_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue_rrc_msg.h
+END
+lteRALue_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue_action.h
+END
+lteRALue_mih_execute.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue_mih_execute.h
+END
+lteRALue_thresholds.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue_thresholds.h
+END
+lteRALue.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/lteRALue.h
+END
+rrc_d_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5938/releases/rel_0.1_26.10.2014/openair3/RAL-LTE/LTE_RAL_UE/INCLUDE/rrc_d_types.h
+END

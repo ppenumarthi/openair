@@ -38,7 +38,7 @@ all: $(OBJS)
 
 %.o: %.c Makefile
 	@echo Compiling $<
-	@$(CC) $(CFLAGS) -c $< -o $@
+	@$(CC) $(CFLAGS) -fPIC -c $< -o $@
 
 clean:
 	$(RM) $(OBJS) *.bak *~
